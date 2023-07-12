@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/Pyramids-at-Giza.ngsversion.1458139144541.png?w=1600https://static.nationalgeographic.fr/files/styles/image_3200/public/Pyramids-at-Giza.ngsversion.1458139144541.png",
+    "isFavorite": false,
+    "intoCart": false
+  },
+
+  {
+    "id": 2,
+    "image": "https://i0.wp.com/www.laterredufutur.com/accueil/wp-content/uploads/2016/06/dague-de-Toutankhamon.jpg",
+    "isFavorite": false,
+    "intoCart": false
+  }
+]
