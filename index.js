@@ -1,11 +1,15 @@
 const express = require("express");
 const cors = require("cors");
+const path = require("path");
 
 const port = process.env.port || 4343;
 
 const app = express();
 
 app.use(cors("*"));
+
+const imagePath = path.join(__dirname, "images");
+app.use(express.static(imagePath));
 
 app.get("/", (req, res) => {
   res.send("Welcome on the O'Sook API !");
