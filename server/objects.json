@@ -1,15 +1,1682 @@
 [
   {
     "id": 1,
-    "image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/Pyramids-at-Giza.ngsversion.1458139144541.png?w=1600https://static.nationalgeographic.fr/files/styles/image_3200/public/Pyramids-at-Giza.ngsversion.1458139144541.png",
+    "image": "./images/collier-or.png",
+    "category":"jewel",
+    "title":"Collier en or avec des perles précieuses",
+    "description":"Élégant collier en or avec des perles précieuses pour ajouter une touche de glamour à votre tenue.",
+    "seller":"AbdelKarim",
+    "city":"Alexandrie",
     "isFavorite": false,
-    "intoCart": false
+    "price": 8
   },
 
   {
     "id": 2,
-    "image": "https://i0.wp.com/www.laterredufutur.com/accueil/wp-content/uploads/2016/06/dague-de-Toutankhamon.jpg",
+    "image": "./images/bracelet-argent.png",
+    "category":"jewel",
+    "title":"Bracelet en argent avec des motifs égyptiens",
+    "description":"Bracelet en argent finement travaillé avec des motifs égyptiens pour un style unique et captivant.",
+    "seller":"AbdelHugo",
+    "city":"Le Caire",
     "isFavorite": false,
-    "intoCart": false
+    "price":12
+  },
+
+  {
+    "id": 3,
+    "image": "./images/bague-lapis-lazuli.png",
+    "category":"jewel",
+    "title":"Bague en lapis-lazuli gravée de hiéroglyphes",
+    "description":"Bague en lapis-lazuli ornée de gravures détaillées de hiéroglyphes égyptiens, symbole de sophistication et de mystère.",
+    "seller":"AbdelMartin",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":5
+  },
+
+  {
+    "id": 4,
+    "image": "./images/diademe-or-pierre-precieuses.png",
+    "category":"jewel",
+    "title":"Diadème en or orné de pierres précieuses",
+    "description":"Diadème majestueux en or incrusté de pierres précieuses pour une allure royale et éblouissante.",
+    "seller":"AbdelRomain",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":12
+  },
+
+  {
+    "id": 5,
+    "image": "./images/boucles-oreilles-scarabee.png",
+    "category":"jewel",
+    "title":"Boucles d'oreilles en forme de scarabées",
+    "description":"Boucles d'oreilles audacieuses en forme de scarabées, un clin d'œil à la symbolique égyptienne et un ajout unique à votre collection de bijoux.",
+    "seller":"FatimaJohanna",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price":25
+  },
+
+  {
+    "id": 6,
+    "image": "./images/broche-or-deesse.png",
+    "category":"jewel",
+    "title":"Broche en or représentant une déesse égyptienne",
+    "description":"Broche en or représentant une déesse égyptienne, un bijou exquis pour les amateurs d'histoire et de style.",
+    "seller":"AbdelAbdou",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":16
+  },
+
+  {
+    "id": 7,
+    "image": "./images/pendentif-oeil-horus.png",
+    "category":"jewel",
+    "title":"Pendentif en forme d'œil d'Horus",
+    "description":"Pendentif délicat en forme de l'œil d'Horus, un symbole de protection et de bonne fortune dans la mythologie égyptienne.",
+    "seller":"FatimaAlexandra",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":23
+  },
+
+  {
+    "id": 8,
+    "image": "./images/torque-bronze.png",
+    "category":"jewel",
+    "title":"Torque en bronze avec des motifs égyptiens",
+    "description":"orque en bronze incrusté de motifs égyptiens, un bijou intemporel qui reflète l'art et la culture de l'Égypte antique.",
+    "seller":"AbdelKader",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":1
+  },
+
+  {
+    "id": 9,
+    "image": "./images/bracelet-argent.png",
+    "category":"jewel",
+    "title":"Bracelet de checity en argent",
+    "description":"Bracelet de checity en argent fin pour ajouter une touche de grâce à vos pas.",
+    "seller":"Abdoul",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":9
+  },
+
+  {
+    "id": 10,
+    "image": "./images/anneau-or.png",
+    "category":"jewel",
+    "title":"Anneau en or avec un scarabée sculpté",
+    "description":"Anneau en or avec un scarabée sculpté, un talisman égyptien traditionnel porteur de chance et de protection.",
+    "seller":"Mohammed",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price":14
+  },
+
+  {
+    "id": 11,
+    "image": "./images/collier-argent-turquoise.png",
+    "category":"jewel",
+    "title":"Collier en turquoise et en argent",
+    "description":"Bracelet en argent finement ouvragé, orné de délicates pierres de turquoise, rappelant les eaux cristallines de l'Égypte antique.",
+    "seller":"Moha",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":13
+  },
+
+  {
+    "id": 12,
+    "image": "./images/pendentif-croix-ansee.png",
+    "category":"jewel",
+    "title":"Pendentif en forme de croix ansée ",
+    "description":"Collier en argent orné d'un pendentif en forme d'ankh, symbole égyptien de la vie éternelle et de la vitalité.",
+    "seller":"Said",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price":14
+  },
+  
+  {
+    "id": 13,
+    "image": "./images/bracelet-corail-rouge.png",
+    "category":"jewel",
+    "title":"Bracelet en corail rouge",
+    "description":"Ce magnifique bracelet en corail rouge est un véritable joyau de l'Égypte antique. Les perles de corail, soigneusement sélectionnées pour leur couleur vibrante et leur lustre naturel, sont finement enfilées pour créer un bracelet élégant et raffiné. Les nuances chaudes du corail rouge évoquent le soleil éclatant et la passion de l'Égypte ancienne. Portez ce bracelet pour ajouter une touche d'élégance intemporelle à votre style et pour vous connecter avec l'héritage fascinant de cette civilisation ancienne.",
+    "seller":"Samy",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 17
+  },
+
+  {
+    "id": 14,
+    "image": "./images/bague-or-amulette.png",
+    "category":"jewel",
+    "title":"Bague en or avec une amulette en forme de faucon",
+    "description":"Cette bague en or incarne la puissance et la majesté des faucons, des oiseaux emblématiques de l'Égypte antique. La bague est finement travaillée en or précieux, ornée d'une amulette en forme de faucon richement détaillée. Le faucon, symbole de protection et de clairvoyance, était vénéré dans la mythologie égyptienne en tant que représentation du dieu Horus. En portant cette bague, vous vous connectez à la sagesse et à la force de cet animal légendaire, ajoutant une touche de symbolisme et d'élégance à votre style.",
+    "seller":"Samir",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":19
+  },
+
+  {
+    "id": 15,
+    "image": "/images/boucles-oreilles-lotus.png",
+    "category":"jewel",
+    "title":"Boucles d'oreilles en forme de lotus",
+    "description":"Boucles d'oreilles délicates en argent représentant des fleurs de lotus, symboles de beauté et d'épanouissement spirituel.",
+    "seller":"Youssef",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":12
+  },
+
+  {
+    "id": 16,
+    "image": "/images/diademe-argent-autruche.png",
+    "category":"jewel",
+    "title":"Diadème en argent orné de plumes d'autruche",
+    "description":" Diadème royal en bronze richement décoré de plumes d'autruche, rappelant la grâce et l'élégance de la faune égyptienne.",
+    "seller":"Hamid",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":7
+  },
+
+  {
+    "id": 17,
+    "image": "./images/broche-serpent-or.png",
+    "category":"jewel",
+    "title":"Broche en forme de serpent en or",
+    "description":"Broche en or représentant un serpent enroulé, symbole de protection et de sagesse dans la mythologie égyptienne.",
+    "seller":"Amar",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":4
+  },
+
+  {
+    "id": 18,
+    "image": "./images/pendentif-grenat.png",
+    "category":"jewel",
+    "title":"Pendentif en grenat en forme de tête de lion",
+    "description":"Pendentif en grenat sculpté en forme de tête de lion, évoquant la force et le courage des rois de l'ancienne Égypte.",
+    "seller":"Omarm'atué",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price":32
+  },
+
+  {
+    "id": 19,
+    "image": "./images/bracelet-ivoire.png",
+    "category":"jewel",
+    "title":"Bracelet en ivoire sculpté",
+    "description":"Bracelet raffiné en ivoire finement sculpté, témoignant de l'artisanat délicat et de la précision artistique de l'époque.",
+    "seller":"Jamel",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":25
+  },
+
+  {
+    "id": 20,
+    "image": "./images/collier-perles-jaspe.png",
+    "category":"jewel",
+    "title":"Collier en perles de jaspe rouge",
+    "description":"Collier élégant composé de perles de jaspe rouge, symbole de passion et de vitalité.",
+    "seller":"Djamal",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":18
+  },
+
+  {
+    "id": 21,
+    "image": "",
+    "category":"real-estate",
+    "title":"Palais",
+    "description":"Pharaon ponpon",
+    "seller":"Samira",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":1000
+  },
+
+  {
+    "id": 22,
+    "image": "",
+    "category":"real-estate",
+    "title":"Jardin suspendu",
+    "description":"Silence, ça pousse",
+    "seller":"Yamina",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":1025
+  },
+
+  {
+    "id": 23,
+    "image": "",
+    "category":"real-estate",
+    "title":"Puits",
+    "description":"De l'eau fraîche en plein désert",
+    "seller":"Sarah",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price":3600
+  },
+
+  {
+    "id": 24,
+    "image": "",
+    "category":"real-estate",
+    "title":"Pigeonnier",
+    "description":"Un beau pigeonnier tasvu",
+    "seller":"Sonia",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":2500
+  },
+
+  {
+    "id": 25,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Samir",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":3600
+  },
+
+  {
+    "id": 26,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Mokthar",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":2800
+  },
+
+  {
+    "id": 27,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Moktharia",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":2300
+  },
+
+  {
+    "id": 28,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Fatima",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":2350
+  },
+
+  {
+    "id": 29,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Halima",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":2896
+  },
+
+  {
+    "id": 30,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Anubis",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":2783
+  },
+
+  {
+    "id": 31,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Obelisk le tourmenteur",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":2148
+  },
+
+  {
+    "id": 32,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Marie",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":2449
+  },
+
+  {
+    "id": 33,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Satet",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":2146
+  },
+
+  {
+    "id": 34,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Nefertiti",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 2305
+  },
+
+  {
+    "id": 35,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Magicien des ténèbres",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":2102
+  },
+
+  {
+    "id": 36,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Ishtar",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price":2302
+  },
+
+  {
+    "id": 37,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"AbdelMehdi",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":1850
+  },
+
+  {
+    "id": 38,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"AbdelMehdy",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":1586
+  },
+
+  {
+    "id": 39,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Aisha",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":1953
+  },
+
+  {
+    "id": 40,
+    "image": "",
+    "category":"real-estate",
+    "title":"",
+    "description":"",
+    "seller":"Dj khaled",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":1954
+  },
+
+  {
+    "id": 41,
+    "image": "",
+    "category":"animal",
+    "title":"Chat",
+    "description":"Offrez-vous la compagnie élégante et mystérieuse d'un chat égyptien ancien. Avec son allure gracieuse et son regard pénétrant, ce chat miniature en résine est un véritable hommage aux félins vénérés dans l'Égypte antique. Que ce soit pour décorer votre espace de vie ou pour offrir un cadeau unique, ce chat égyptien incarne l'élégance et le charme intemporel de ces créatures adorées depuis des millénaires.",
+    "seller":"Tareksama",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price":85
+  },
+
+  {
+    "id": 42,
+    "image": "",
+    "category":"animal",
+    "title":"Faucon",
+    "description":"Élevez votre décoration intérieure vers de nouveaux sommets avec ce majestueux faucon en métal. Inspiré des oiseaux de proie vénérés dans l'Égypte ancienne, cette sculpture détaillée en acier inoxydable capture l'esprit de la grandeur et de la puissance. Placez-le sur une étagère, une table basse ou un bureau pour ajouter une touche de noblesse à votre espace.",
+    "seller":"Akhenaton",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":30
+  },
+
+  {
+    "id": 43,
+    "image": "",
+    "category":"animal",
+    "title":"Scarabée",
+    "description":"Admirez la symbolique mystique du scarabée dans cette magnifique sculpture en bronze. Représentant la renaissance et la protection, ce scarabée en métal patiné est un véritable trésor. Son design précis et ses détails finement ciselés en font un objet de décoration fascinant pour votre intérieur. Placez-le sur un socle ou utilisez-le comme un objet porte-bonheur dans votre quotidien.",
+    "seller":"Khephren",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":28
+  },
+
+  {
+    "id": 44,
+    "image": "",
+    "category":"animal",
+    "title":"Crocodile",
+    "description":"Capturez la puissance et la majesté du Nil avec cette sculpture de crocodile en résine. Inspirée des créatures emblématiques des eaux égyptiennes, cette pièce artistique est une représentation saisissante de la force et de la grâce. Que ce soit pour décorer votre espace extérieur ou pour ajouter une touche exotique à votre salon, ce crocodile en résine est un ajout audacieux et captivant à votre collection.",
+    "seller":"Ramses VI",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":52
+  },
+
+  {
+    "id": 45,
+    "image": "",
+    "category":"animal",
+    "title":"Ibis",
+    "description":"Ajoutez une touche d'élégance aérienne à votre décoration avec cet ibis en céramique émaillée. Inspiré des oiseaux sacrés de l'Égypte ancienne, cette sculpture en céramique évoque la grâce et la sérénité. Placez-le sur une étagère, un rebord de fenêtre ou une table pour apporter une note de légèreté à votre intérieur. Chaque détail de cette pièce délicatement conçue raconte une histoire d'admiration pour la nature.",
+    "seller":"Sekhmet",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":53
+  },
+
+  {
+    "id": 46,
+    "image": "",
+    "category":"animal",
+    "title":"Cobra",
+    "description":"Explorez le mystère hypnotique du cobra avec cette sculpture en bronze. Fabriquée avec précision, cette pièce capturera tous les regards avec sa position féroce et son regard perçant. Que vous soyez passionné par les symboles de protection ou que vous cherchiez simplement une pièce d'art unique, ce cobra en bronze est un choix saisissant qui apportera une touche de sophistication à votre espace.",
+    "seller":"Chéops",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price":15
+  },
+
+  {
+    "id": 47,
+    "image": "",
+    "category":"animal",
+    "title":"Lion",
+    "description":"Dominez votre décoration avec cette imposante sculpture de lion en résine. Inspirée de la puissance et du courage des lions dans la culture égyptienne, cette pièce artistique est un rappel majestueux de la grandeur de la nature sauvage. Placez-la sur un piédestal ou utilisez-la comme un point focal dans votre espace pour créer une ambiance digne des pharaons.",
+    "seller":"Ramses",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":75
+  },
+
+  {
+    "id": 48,
+    "image": "",
+    "category":"animal",
+    "title":"Hippopotame",
+    "description":"Apportez un charme unique et exotique à votre intérieur avec cette sculpture d'hippopotame en céramique émaillée. Représentant la force tranquille de cet animal emblématique des rivières du Nil, cette pièce artistique apporte une touche de nature sauvage à votre décoration. Placez-la sur un meuble, une étagère ou une console pour un effet décoratif original et captivant.",
+    "seller":"Sobek",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price":98
+  },
+
+  {
+    "id": 49,
+    "image": "",
+    "category":"animal",
+    "title":"Babouin",
+    "description":"Donnez une touche de malice et d'intelligence à votre espace avec cette sculpture de babouin en résine. Inspiré des singes vénérés dans l'Égypte ancienne, cette pièce artistique capturera l'attention avec son expression facétieuse et son design détaillé. Que vous l'utilisiez comme objet décoratif ou comme symbole de sagesse, ce babouin en résine ajoutera une touche de personnalité à votre intérieur.",
+    "seller":"Isis",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":22
+  },
+
+  {
+    "id": 50,
+    "image": "",
+    "category":"animal",
+    "title":"Chacal",
+    "description":"Explorez le mystère de l'au-delà avec cette sculpture de chacal en bronze. Inspiré du dieu égyptien Anubis, cette pièce artistique incarne la protection et la transition entre la vie et la mort. Placez cette sculpture sur une étagère ou une table basse pour ajouter une ambiance mystique à votre espace.",
+    "seller":"Osiris",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":19
+  },
+
+  {
+    "id": 51,
+    "image": "",
+    "category":"animal",
+    "title":"Oie",
+    "description":"Ajoutez une note de grâce et de beauté à votre décoration avec cette sculpture d'oie en résine. Inspirée des oiseaux emblématiques des terres fertiles du Nil, cette pièce artistique est un symbole de prospérité et de protection. Placez-la dans votre jardin, sur une terrasse ou à l'intérieur pour créer une atmosphère sereine et accueillante.",
+    "seller":"Thouéris",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":3
+  },
+
+  {
+    "id": 52,
+    "image": "",
+    "category":"animal",
+    "title":"Gazelle",
+    "description":"Capturez la grâce et la légèreté de la gazelle avec cette sculpture en bronze. Inspirée des animaux emblématiques des vastes étendues désertiques de l'Égypte, cette pièce artistique est un hommage à la beauté naturelle. Placez-la sur une étagère, une console ou une table basse pour apporter une touche d'élégance à votre intérieur.",
+    "seller":"Arsinoé",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price":13
+  },
+
+  {
+    "id": 53,
+    "image": "",
+    "category":"animal",
+    "title":"Éléphant",
+    "description":"Apportez la majesté de la savane à votre décoration avec cette sculpture d'éléphant en résine. Inspirée des animaux vénérés dans la culture égyptienne, cette pièce artistique est un rappel de la force et de la sagesse. Placez-la dans votre salon, votre bureau ou votre espace extérieur pour créer une atmosphère captivante.",
+    "seller":"Bastis",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":68
+  },
+
+  {
+    "id": 54,
+    "image": "",
+    "category":"animal",
+    "title":"Gazelle dorcas",
+    "description":"Laissez la beauté de la gazelle dorcas captiver votre regard avec cette sculpture en résine. Inspirée des animaux gracieux qui peuplent les déserts égyptiens, cette pièce artistique est un véritable chef-d'œuvre de réalisme et de détail. Placez-la sur une étagère, une commode ou une console pour créer une atmosphère sereine et apaisante.",
+    "seller":"Bérénice",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":32
+  },
+
+  {
+    "id": 55,
+    "image": "",
+    "category":"animal",
+    "title":"Chèvre",
+    "description":"Apportez une touche de charme rustique à votre décoration avec cette sculpture de chèvre en céramique émaillée. Inspirée des animaux qui occupaient les terres fertiles de l'Égypte ancienne, cette pièce artistique évoque l'esprit de la nature et de la vie rurale. Placez-la sur une étagère, une table basse ou une cheminée pour ajouter une note champêtre à votre intérieur.",
+    "seller":"Héqet",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price":23
+  },
+
+  {
+    "id": 56,
+    "image": "",
+    "category":"animal",
+    "title":"Girafe",
+    "description":"Apportez une touche d'élégance et d'exotisme à votre décoration avec cette sculpture de girafe en résine. Inspirée des animaux gracieux des terres africaines, cette pièce artistique ajoute une dimension verticale et audacieuse à votre espace. Placez-la dans le salon, la chambre ou même le jardin pour créer un effet saisissant",
+    "seller":"Hathor",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":56
+  },
+
+  {
+    "id": 57,
+    "image": "",
+    "category":"animal",
+    "title":"Bousier",
+    "description":"",
+    "seller":"Heddet",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price":2
+  },
+
+  {
+    "id": 58,
+    "image": "",
+    "category":"animal",
+    "title":"Autruche",
+    "description":"Apportez une touche exotique à votre décoration avec cette sculpture d'autruche en résine. Inspirée des oiseaux emblématiques des vastes plaines du désert, cette pièce artistique apporte une note d'originalité et d'élégance à votre intérieur. Placez-la sur une étagère, une console ou une table basse pour créer une atmosphère unique.",
+    "seller":"Ishtar",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 50
+  },
+
+  {
+    "id": 59,
+    "image": "",
+    "category":"animal",
+    "title":"Vautour",
+    "description":"Élevez votre décoration avec cette sculpture de vautour en bronze. Inspirée des oiseaux de proie vénérés dans l'Égypte ancienne, cette pièce artistique est un symbole de protection et de vigilance. Placez-la sur une étagère, un bureau ou une table basse pour apporter une touche de majesté à votre espace.",
+    "seller":"Mangeurdefiak",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 51
+  },
+
+  {
+    "id": 60,
+    "image": "",
+    "category":"animal",
+    "title":"Panthère",
+    "description":"Ajoutez une touche de mystère et de puissance à votre décoration avec cette sculpture de panthère en résine. Inspirée des félins emblématiques des régions sauvages de l'Égypte, cette pièce artistique incarne l'élégance et la force. Placez-la sur une étagère, une table basse ou un rebord de fenêtre pour créer une atmosphère captivante.",
+    "seller":"Ramses I",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 45
+  },
+
+  {
+    "id": 61,
+    "image": "",
+    "category":"trinket",
+    "title":"Coupe en céramique",
+    "description":"",
+    "seller":"Ramses II",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 18
+  },
+
+  {
+    "id": 62,
+    "image": "",
+    "category":"trinket",
+    "title":"Assiette en argile",
+    "description":"",
+    "seller":"Ramses III",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 20
+  },
+
+  {
+    "id": 63,
+    "image": "",
+    "category":"trinket",
+    "title":"Gobelet en albâtre",
+    "description":"",
+    "seller":"Ramses IV",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 14
+  },
+
+  {
+    "id": 64,
+    "image": "",
+    "category":"trinket",
+    "title":"Bol en pierre",
+    "description":"",
+    "seller":"Ramses V",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 13
+  },
+
+  {
+    "id": 65,
+    "image": "",
+    "category":"trinket",
+    "title":"Plateau en bois",
+    "description":"",
+    "seller":"Ramses VII",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 10
+  },
+
+  {
+    "id": 66,
+    "image": "",
+    "category":"trinket",
+    "title":"Vase en faïence",
+    "description":"",
+    "seller":"Ramses VIII",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 15
+  },
+
+  {
+    "id": 67,
+    "image": "",
+    "category":"trinket",
+    "title":"Cruche en terre cuite",
+    "description":"",
+    "seller":"Ramses IV",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 16
+  },
+
+  {
+    "id": 68,
+    "image": "",
+    "category":"trinket",
+    "title":"Tasse en bronze",
+    "description":"",
+    "seller":"Ramses X",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 14
+  },
+
+  {
+    "id": 69,
+    "image": "",
+    "category":"trinket",
+    "title":"Pichet en argile",
+    "description":"",
+    "seller":"Ramses XI",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 21
+  },
+
+  {
+    "id": 70,
+    "image": "",
+    "category":"trinket",
+    "title":"Coupe en or",
+    "description":"",
+    "seller":"",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 22
+  },
+
+  {
+    "id": 71,
+    "image": "",
+    "category":"trinket",
+    "title":"",
+    "description":"",
+    "seller":"Sélim",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 25
+  },
+
+  {
+    "id": 72,
+    "image": "",
+    "category":"trinket",
+    "title":"",
+    "description":"",
+    "seller":"Zahra",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 21
+  },
+
+  {
+    "id": 73,
+    "image": "",
+    "category":"trinket",
+    "title":"",
+    "description":"",
+    "seller":"Mourad",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 28
+  },
+
+  {
+    "id": 74,
+    "image": "",
+    "category":"trinket",
+    "title":"",
+    "description":"",
+    "seller":"coupdeShlassdu38",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 26
+  },
+
+  {
+    "id": 75,
+    "image": "",
+    "category":"trinket",
+    "title":"",
+    "description":"",
+    "seller":"Le J",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 21
+  },
+
+  {
+    "id": 76,
+    "image": "",
+    "category":"trinket",
+    "title":"",
+    "description":"",
+    "seller":"Farah",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 22
+  },
+
+  {
+    "id": 77,
+    "image": "",
+    "category":"trinket",
+    "title":"",
+    "description":"",
+    "seller":"Tarek",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 20
+  },
+
+  {
+    "id": 78,
+    "image": "",
+    "category":"trinket",
+    "title":"",
+    "description":"",
+    "seller":"Dalida",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 15
+  },
+
+  {
+    "id": 79,
+    "image": "",
+    "category":"trinket",
+    "title":"",
+    "description":"",
+    "seller":"Souad",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 11
+  },
+
+  {
+    "id": 80,
+    "image": "trinket",
+    "category":"",
+    "title":"",
+    "description":"",
+    "seller":"Ayman",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 13
+  },
+
+  {
+    "id": 81,
+    "image": "",
+    "category":"tableware",
+    "title":"Coupe en céramique",
+    "description":"Découvrez l'élégance intemporelle de cette coupe en céramique. Fabriquée à la main par des artisans qualifiés, cette coupe allie beauté et fonctionnalité. Parfaite pour servir vos boissons préférées lors de dîners élégants ou pour ajouter une touche artistique à votre décoration intérieure. Sa finition lisse et son design soigné en font un choix polyvalent et esthétique.",
+    "seller":"Moumen",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 14
+  },
+
+  {
+    "id": 82,
+    "image": "",
+    "category":"tableware",
+    "title":"Assiette en argile",
+    "description":"Apportez une touche rustique et authentique à votre table avec cette assiette en argile. Faite à la main avec des matériaux naturels, chaque assiette est unique avec ses variations de couleurs et de textures. Idéale pour présenter vos plats préférés lors de repas conviviaux ou pour ajouter une touche chaleureuse à votre décoration de cuisine.",
+    "seller":"Mahalia",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 19
+  },
+
+  {
+    "id": 83,
+    "image": "",
+    "category":"tableware",
+    "title":"Gobelet en albâtre",
+    "description":"Offrez-vous une expérience de boisson luxueuse avec ce magnifique gobelet en albâtre. Sculpté à partir d'une pierre précieuse, ce gobelet est à la fois élégant et fonctionnel. Sa texture lisse et sa couleur douce en font un choix raffiné pour déguster vos boissons préférées. Ajoutez une touche de sophistication à votre collection de vaisselle avec ce gobelet unique.",
+    "seller":"Nael",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 20
+  },
+
+  {
+    "id": 84,
+    "image": "",
+    "category":"tableware",
+    "title":"Bol en pierre",
+    "description":"Découvrez la beauté naturelle de ce bol en pierre, taillé avec soin dans une pièce unique. Son aspect robuste et sa texture organique en font un choix parfait pour servir des soupes, des salades ou des plats d'accompagnement. Chaque bol est une œuvre d'art en soi, avec des motifs et des nuances uniques qui racontent une histoire vieille de milliers d'années.",
+    "seller":"Sabah",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 18
+  },
+
+  {
+    "id": 85,
+    "image": "",
+    "category":"tableware",
+    "title":"Plateau en bois",
+    "description":"Ajoutez une touche de chaleur et de charme naturel à vos repas avec ce plateau en bois. Fabriqué à partir de bois d'excellente qualité, ce plateau est non seulement pratique pour servir vos plats préférés, mais il est également un title de décoration polyvalent. Placez-le sur votre table à manger ou utilisez-le pour créer une ambiance rustique lors de vos événements spéciaux.",
+    "seller":"Osman",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 16
+  },
+
+  {
+    "id": 86,
+    "image": "",
+    "category":"tableware",
+    "title":"Vase en faïence",
+    "description":"Sublimez votre espace avec ce magnifique vase en faïence. Sa forme élégante et ses motifs inspirés de l'Égypte antique en font un choix idéal pour mettre en valeur vos fleurs préférées. Placez-le sur une étagère, une table basse ou une commode pour apporter une touche artistique et colorée à votre intérieur. Ce vase en faïence est le complément parfait pour créer une ambiance florale harmonieuse.",
+    "seller":"Maia",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 15
+  },
+
+  {
+    "id": 87,
+    "image": "",
+    "category":"tableware",
+    "title":"Cruche en terre cuite",
+    "description":"Cette cruche en terre cuite incarne le charme rustique et l'authenticité de l'Égypte ancienne. Fabriquée à partir de matériaux naturels et façonnée à la main, cette cruche offre une esthétique traditionnelle et intemporelle. Utilisez-la pour servir de l'eau fraîche ou comme un élément décoratif unique dans votre cuisine ou votre salle à manger.",
+    "seller":"Safiya",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 11
+  },
+
+  {
+    "id": 88,
+    "image": "",
+    "category":"tableware",
+    "title":"Tasse en bronze",
+    "description":"Dégustez votre café du matin avec style grâce à cette tasse en bronze exquise. Fabriquée avec soin par des artisans qualifiés, cette tasse en bronze offre une allure antique et une sensation de luxe. Son design ergonomique et sa finition brillante en font un choix élégant et pratique pour vos moments de détente. Ajoutez une touche de sophistication à votre rituel du café avec cette tasse unique en son genre.",
+    "seller":"Aziz",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 12
+  },
+
+  {
+    "id": 89,
+    "image": "",
+    "category":"tableware",
+    "title":"Pichet en argile",
+    "description":"Donnez à vos boissons une touche d'authenticité avec ce pichet en argile. Fabriqué à la main selon des méthodes traditionnelles, ce pichet offre une esthétique artisanale unique. Utilisez-le pour servir vos jus de fruits frais, vos cocktails ou simplement pour ajouter une touche de charme rustique à votre table. Son design classique et sa texture naturelle en font un choix polyvalent pour toutes les occasions.",
+    "seller":"Aziza",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 14
+  },
+
+  {
+    "id": 90,
+    "image": "",
+    "category":"tableware",
+    "title":"Coupe en or",
+    "description":"Apportez une touche de luxe à vos moments spéciaux avec cette coupe en or. Fabriquée avec des détails exquis, cette coupe en or pur est un véritable chef-d'œuvre de l'orfèvrerie. Son éclat doré et sa finition soignée ajoutent une touche de sophistication à chaque gorgée. Que ce soit pour célébrer une occasion spéciale ou simplement pour vous faire plaisir, cette coupe en or est l'accessoire parfait pour savourer vos boissons avec élégance.",
+    "seller":"Neema",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 16
+  },
+
+  {
+    "id": 91,
+    "image": "",
+    "category":"tableware",
+    "title":"Gobelet en verre coloré",
+    "description":"Ajoutez une explosion de couleurs à vos boissons avec ce gobelet en verre coloré. Fabriqué avec des techniques artisanales, ce gobelet présente des motifs vibrants et uniques qui en font un véritable accroche-regard. Que vous l'utilisiez pour siroter des jus de fruits rafraîchissants ou pour servir des cocktails festifs, ce gobelet en verre coloré ajoutera une touche de gaieté à vos moments de convivialité.",
+    "seller":"Wael",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 14
+  },
+
+  {
+    "id": 92,
+    "image": "",
+    "category":"tableware",
+    "title":"Bol en céramique émaillée",
+    "description":"Savourez vos repas dans ce bol en céramique émaillée qui allie beauté et fonctionnalité. Son émail lisse et brillant met en valeur les détails subtils de sa conception. Que vous l'utilisiez pour servir des soupes, des salades ou des plats d'accompagnement, ce bol ajoutera une touche de sophistication à votre table. Son design épuré et contemporain en fait un choix polyvalent pour tous les styles de cuisine.",
+    "seller":"Nael",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 18
+  },
+
+  {
+    "id": 93,
+    "image": "",
+    "category":"tableware",
+    "title":"Assiette en faïence émaillée",
+    "description":"Servez vos plats avec style grâce à cette assiette en faïence émaillée. Son émail coloré et brillant ajoute une touche de vivacité à votre table, tandis que sa surface lisse facilite le nettoyage. Que ce soit pour des dîners formels ou des repas décontractés entre amis, cette assiette en faïence émaillée sera un choix esthétique et pratique.",
+    "seller":"Nila",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 20
+  },
+
+  {
+    "id": 94,
+    "image": "",
+    "category":"tableware",
+    "title":"Vase en albâtre sculpté",
+    "description":"Donnez vie à vos fleurs avec ce vase en albâtre sculpté. Taillé avec précision dans cette pierre précieuse, ce vase offre une combinaison parfaite de beauté naturelle et d'artisanat exceptionnel. Placez-y vos fleurs préférées et admirez l'élégance intemporelle de cet title. Que ce soit dans le salon, la salle à manger ou le hall d'entrée, ce vase en albâtre ajoutera une touche de raffinement à votre décoration intérieure.",
+    "seller":"Donya",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 19
+  },
+
+  {
+    "id": 95,
+    "image": "",
+    "category":"tableware",
+    "title":"Tasse en argent",
+    "description":"Dégustez votre thé dans cette tasse en argent finement ouvragée. Fabriquée avec des détails complexes et une finition brillante, cette tasse en argent est un véritable trésor à ajouter à votre collection de vaisselle. Que vous l'utilisiez pour des occasions spéciales ou pour vous offrir une expérience de thé élégante au quotidien, cette tasse en argent ajoutera une touche de luxe à chaque dégustation.",
+    "seller":"Mostafa",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 15
+  },
+
+  {
+    "id": 96,
+    "image": "",
+    "category":"tableware",
+    "title":"Cruche en argile peinte",
+    "description":"Ravivez vos repas avec cette cruche en argile peinte à la main. Son motif coloré et sa finition artistique en font un choix parfait pour servir vos boissons préférées lors de dîners entre amis ou en famille. Que ce soit pour de l'eau fraîche, du jus de fruits ou des boissons spéciales, cette cruche en argile peinte ajoutera une touche d'originalité et de convivialité à votre table.",
+    "seller":"PochettedeRaï",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 22
+  },
+
+  {
+    "id": 97,
+    "image": "",
+    "category":"tableware",
+    "title":"Coupe en verre transparent",
+    "description":"Profitez de la clarté et de l'élégance intemporelle de cette coupe en verre transparent. Sa forme classique et sa transparence cristalline en font un choix polyvalent pour toutes les occasions, que ce soit pour servir des cocktails raffinés lors de soirées spéciales ou pour déguster votre boisson préférée au quotidien. Laissez cette coupe en verre transparent briller sur votre table avec simplicité et sophistication.",
+    "seller":"Jinane",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 21
+  },
+
+  {
+    "id": 98,
+    "image": "",
+    "category":"tableware",
+    "title":"Plat en cuivre",
+    "description":"Apportez une touche d'élégance chaleureuse à votre table avec ce plat en cuivre magnifiquement travaillé. Fabriqué avec des matériaux de qualité, ce plat en cuivre ajoute une lueur chaleureuse à vos plats préférés. Sa surface lisse et sa brillance naturelle en font un choix polyvalent pour présenter des mets sucrés ou salés lors de vos repas. Offrez à vos invités une expérience culinaire raffinée avec ce plat en cuivre unique.",
+    "seller":"Adel",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 13
+  },
+
+  {
+    "id": 99,
+    "image": "",
+    "category":"tableware",
+    "title":"Gobelet en ivoire",
+    "description":"Découvrez le luxe intemporel de ce gobelet en ivoire finement sculpté. Avec sa couleur naturelle et sa texture élégante, ce gobelet offre une expérience de boisson raffinée. Que vous l'utilisiez pour déguster votre whisky préféré ou pour servir des boissons spéciales lors de soirées élégantes, ce gobelet en ivoire ajoutera une touche de sophistication et de distinction à votre collection de vaisselle.",
+    "seller":"Sebastien",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 12
+  },
+
+  {
+    "id": 100,
+    "image": "",
+    "category":"tableware",
+    "title":"Bol en céramique noire",
+    "description":"Ajoutez une touche de sophistication à votre table avec ce bol en céramique noire. Sa finition mate et sa couleur élégante en font un choix moderne et chic pour servir des plats variés. Que vous l'utilisiez pour des soupes fumantes, des salades fraîches ou des plats d'accompagnement savoureux, ce bol en céramique noire ajoutera une touche de style à vos repas.",
+    "seller":"VoleurdeChameau75",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 15
+  },
+
+  {
+    "id": 101,
+    "image": "",
+    "category":"vehicle",
+    "title":"Traineau en bois",
+    "description":"Un  petit traineau en bois peu usagé",
+    "seller":"Nicotris",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 195
+  },
+
+  {
+    "id": 102,
+    "image": "",
+    "category":"vehicle",
+    "title":"Bateau de transport de passagers",
+    "description":"Stu veux aller d'un point A à un point B, c'est pour toa quoi",
+    "seller":"Dedwen",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 190
+  },
+
+  {
+    "id": 103,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Khéprien",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 180
+  },
+
+  {
+    "id": 104,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Ptolémée",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 150
+  },
+
+  {
+    "id": 105,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Hemen",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 220
+  },
+
+  {
+    "id": 106,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Seth",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 230
+  },
+
+  {
+    "id": 107,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Ka",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 205
+  },
+
+  {
+    "id": 108,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Horus",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 210
+  },
+
+  {
+    "id": 109,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Iry",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 190
+  },
+
+  {
+    "id": 110,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Hotepsekhemoui",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 180
+  },
+
+  {
+    "id": 111,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Horus Ba",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 230
+  },
+
+  {
+    "id": 112,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Péribsen",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 220
+  },
+
+  {
+    "id": 113,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Khâsekhemoui",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 199
+  },
+
+  {
+    "id": 114,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Houni",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 210
+  },
+
+  {
+    "id": 115,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Snéfrou",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 190
+  },
+
+  {
+    "id": 116,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Djédefrê",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 180
+  },
+
+  {
+    "id": 117,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Baka",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 199
+  },
+
+  {
+    "id": 118,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Mykérinos",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 200
+  },
+
+  {
+    "id": 119,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Sahouré",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 150
+  },
+
+  {
+    "id": 120,
+    "image": "",
+    "category":"vehicle",
+    "title":"",
+    "description":"",
+    "seller":"Nioussérré Ini",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 210
+  },
+
+  {
+    "id": 121,
+    "image": "./images/Marteau en bronze.png",
+    "category":"tool",
+    "title":"Marteau en bronze",
+    "description":"Marteau en bronze pour vous accompagner dans vos projets de construction et d'artisanat.",
+    "seller":"Ounas",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 24
+  },
+
+  {
+    "id": 122,
+    "image": "",
+    "category":"tool",
+    "title":"Ciseaux en fer",
+    "description":"Ciseaux en fer solides et durables pour une découpe précise dans divers matériaux.",
+    "seller":"Téti",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 25
+  },
+
+  {
+    "id": 123,
+    "image": "./images/Ciseaux en fer.png",
+    "category":"tool",
+    "title":"Scie en bois",
+    "description":"Scie en bois traditionnelle pour couper avec précision et facilité.",
+    "seller":"Netjerkarê",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 27
+  },
+
+  {
+    "id": 124,
+    "image": "./images/Hache en pierre.png",
+    "category":"tool",
+    "title":"Hache en pierre",
+    "description":"Hache en pierre taillée pour vos travaux de jardinage et de bûcheronnage.",
+    "seller":"Menkarê",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 31
+  },
+
+  {
+    "id": 125,
+    "image": "./images/Burin en cuivre.png",
+    "category":"tool",
+    "title":"Burin en cuivre",
+    "description":"Burin en cuivre pour la sculpture et la gravure sur diverses surfaces.",
+    "seller":"Nykarê",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 30
+  },
+
+  {
+    "id": 126,
+    "image": "./images/Pioche en bois et en pierre.png",
+    "category":"tool",
+    "title":"Pioche en bois et en pierre",
+    "description":"Pioche polyvalente en bois et en pierre pour les travaux de terrassement et de creusage.",
+    "seller":"Qakarê Ibi",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 12
+  },
+
+  {
+    "id": 127,
+    "image": "./images/Couteau en silex.png",
+    "category":"tool",
+    "title":"Couteau en silex",
+    "description":"Couteau en silex tranchant, utilisé depuis des siècles pour diverses tâches quotidiennes.",
+    "seller":"Sekhemkarê",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price": 16
+  },
+
+  {
+    "id": 128,
+    "image": "./images/Herminette en bronze.png",
+    "category":"tool",
+    "title":"Herminette en bronze",
+    "description":"Herminette en bronze pour la sculpture sur bois et la taille de précision.",
+    "seller":"Imhotep",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 17
+  },
+
+  {
+    "id": 129,
+    "image": "./images/Pince en cuivre.png",
+    "category":"tool",
+    "title":"Pince en cuivre",
+    "description":"Pince en cuivre pratique pour vos besoins de fixation et de manipulation.",
+    "seller":"Khoui",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 18
+  },
+
+  {
+    "id": 130,
+    "image": "./images/Rateau en bois.png",
+    "category":"tool",
+    "title":"Râteau en bois",
+    "description":"Râteau en bois pour aménager et entretenir votre jardin avec facilité.",
+    "seller":"Jul",
+    "city":"Louxor",
+    "isFavorite": false,
+    "price":12
+  },
+
+  {
+    "id": 131,
+    "image": "./images/Aiguille en os.png",
+    "category":"tool",
+    "title":"Aiguille en os",
+    "description":"Aiguille en os fine et pointue, idéale pour la couture et la création de textiles.",
+    "seller":"Mérikarê",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 13
+  },
+
+  {
+    "id": 132,
+    "image": "./images/Maillet en bois.png",
+    "category":"tool",
+    "title":"Maillet en bois",
+    "description":"Maillet en bois pour les travaux de menuiserie et d'ébénisterie.",
+    "seller":"WeshAlors",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 15
+  },
+
+  {
+    "id": 133,
+    "image": "./images/Perceuse en cuivre.png",
+    "category":"tool",
+    "title":"Perceuse en cuivre",
+    "description":"Perceuse en cuivre pour percer des trous précis dans divers matériaux.",
+    "seller":"sellerdeNarguilé31",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 14
+  },
+
+  {
+    "id": 134,
+    "image": "./images/Ebauchoir en pierre.png",
+    "category":"tool",
+    "title":"Ébauchoir en pierre",
+    "description":"Ébauchoir en pierre pour la sculpture et le modelage de l'argile et de la pierre.",
+    "seller":"Sadam Hussein",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 16
+  },
+
+  {
+    "id": 135,
+    "image": "./images/Récipient en argile pour la fabrication de poterie.png",
+    "category":"tool",
+    "title":"Récipient en argile pour la fabrication de poterie",
+    "description":" Récipient en argile utilisé pour la préparation et la création de poteries artisanales.",
+    "seller":"Neboukaourê",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 12
+  },
+
+  {
+    "id": 136,
+    "image": "./images/Serpe en bronze.png",
+    "category":"tool",
+    "title":"Serpe en bronze",
+    "description":"Serpe en bronze tranchante pour la taille des plantes et des arbres.",
+    "seller":"Nymaâtrê",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 11
+  },
+
+  {
+    "id": 139,
+    "image": "./images/Pointe de flèche en silex.png",
+    "category":"tool",
+    "title":"Pointe de flèche en silex",
+    "description":"Pointe de flèche en silex pour les activités de chasse et de défense.",
+    "seller":"Sékhemrê",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 13
+  },
+
+  {
+    "id": 140,
+    "image": "./images/Racloir en os.png",
+    "category":"tool",
+    "title":"Racloir en os",
+    "description":" Racloir en os pour le travail des peaux et la préparation des matériaux.",
+    "seller":"Ioufeni",
+    "city":"Gizeh",
+    "isFavorite": false,
+    "price": 12
+  },
+
+  {
+    "id": 141,
+    "image": "./images/Mortier et pillon.png",
+    "category":"tool",
+    "title":"Pilon en pierre",
+    "description":"Pilon en pierre pour écraser et moudre des ingrédients dans la cuisine ou dans des rituels spéciaux.",
+    "seller":"Sahathor",
+    "city":"Alexandrie",
+    "isFavorite": false,
+    "price": 15
+  },
+
+  {
+    "id": 142,
+    "image": "./images/Brosse en fibres végétales pour la sculpture.png",
+    "category":"tool",
+    "title":"Brosse en fibres végétales pour la sculpture",
+    "description":"Brosse en fibres végétales pour la sculpture, le nettoyage et les finitions fines.",
+    "seller":"Sânkhenrê",
+    "city":"Le Caire",
+    "isFavorite": false,
+    "price": 10
   }
+
 ]
