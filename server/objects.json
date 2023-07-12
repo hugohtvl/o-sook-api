@@ -961,7 +961,7 @@
 
   {
     "id": 81,
-    "image": "",
+    "image": "./images/Coupe en céramique.png",
     "category":"tableware",
     "title":"Coupe en céramique",
     "description":"Découvrez l'élégance intemporelle de cette coupe en céramique. Fabriquée à la main par des artisans qualifiés, cette coupe allie beauté et fonctionnalité. Parfaite pour servir vos boissons préférées lors de dîners élégants ou pour ajouter une touche artistique à votre décoration intérieure. Sa finition lisse et son design soigné en font un choix polyvalent et esthétique.",
@@ -973,7 +973,7 @@
 
   {
     "id": 82,
-    "image": "",
+    "image": "./images/Assiette en argile.png",
     "category":"tableware",
     "title":"Assiette en argile",
     "description":"Apportez une touche rustique et authentique à votre table avec cette assiette en argile. Faite à la main avec des matériaux naturels, chaque assiette est unique avec ses variations de couleurs et de textures. Idéale pour présenter vos plats préférés lors de repas conviviaux ou pour ajouter une touche chaleureuse à votre décoration de cuisine.",
@@ -985,7 +985,7 @@
 
   {
     "id": 83,
-    "image": "",
+    "image": "./images/Gobelet en albâtre.png",
     "category":"tableware",
     "title":"Gobelet en albâtre",
     "description":"Offrez-vous une expérience de boisson luxueuse avec ce magnifique gobelet en albâtre. Sculpté à partir d'une pierre précieuse, ce gobelet est à la fois élégant et fonctionnel. Sa texture lisse et sa couleur douce en font un choix raffiné pour déguster vos boissons préférées. Ajoutez une touche de sophistication à votre collection de vaisselle avec ce gobelet unique.",
@@ -997,7 +997,7 @@
 
   {
     "id": 84,
-    "image": "",
+    "image": "./images/bol en pierre.png",
     "category":"tableware",
     "title":"Bol en pierre",
     "description":"Découvrez la beauté naturelle de ce bol en pierre, taillé avec soin dans une pièce unique. Son aspect robuste et sa texture organique en font un choix parfait pour servir des soupes, des salades ou des plats d'accompagnement. Chaque bol est une œuvre d'art en soi, avec des motifs et des nuances uniques qui racontent une histoire vieille de milliers d'années.",
@@ -1009,7 +1009,7 @@
 
   {
     "id": 85,
-    "image": "",
+    "image": "./images/Plateau en bois.png",
     "category":"tableware",
     "title":"Plateau en bois",
     "description":"Ajoutez une touche de chaleur et de charme naturel à vos repas avec ce plateau en bois. Fabriqué à partir de bois d'excellente qualité, ce plateau est non seulement pratique pour servir vos plats préférés, mais il est également un title de décoration polyvalent. Placez-le sur votre table à manger ou utilisez-le pour créer une ambiance rustique lors de vos événements spéciaux.",
@@ -1021,7 +1021,7 @@
 
   {
     "id": 86,
-    "image": "",
+    "image": "./images/Vase en faïence.png",
     "category":"tableware",
     "title":"Vase en faïence",
     "description":"Sublimez votre espace avec ce magnifique vase en faïence. Sa forme élégante et ses motifs inspirés de l'Égypte antique en font un choix idéal pour mettre en valeur vos fleurs préférées. Placez-le sur une étagère, une table basse ou une commode pour apporter une touche artistique et colorée à votre intérieur. Ce vase en faïence est le complément parfait pour créer une ambiance florale harmonieuse.",
@@ -1033,7 +1033,7 @@
 
   {
     "id": 87,
-    "image": "",
+    "image": "./images/Cruche en terre cuite.png",
     "category":"tableware",
     "title":"Cruche en terre cuite",
     "description":"Cette cruche en terre cuite incarne le charme rustique et l'authenticité de l'Égypte ancienne. Fabriquée à partir de matériaux naturels et façonnée à la main, cette cruche offre une esthétique traditionnelle et intemporelle. Utilisez-la pour servir de l'eau fraîche ou comme un élément décoratif unique dans votre cuisine ou votre salle à manger.",
@@ -1045,7 +1045,7 @@
 
   {
     "id": 88,
-    "image": "",
+    "image": "./images/Tasse en bronze de.png",
     "category":"tableware",
     "title":"Tasse en bronze",
     "description":"Dégustez votre café du matin avec style grâce à cette tasse en bronze exquise. Fabriquée avec soin par des artisans qualifiés, cette tasse en bronze offre une allure antique et une sensation de luxe. Son design ergonomique et sa finition brillante en font un choix élégant et pratique pour vos moments de détente. Ajoutez une touche de sophistication à votre rituel du café avec cette tasse unique en son genre.",
@@ -1057,7 +1057,7 @@
 
   {
     "id": 89,
-    "image": "",
+    "image": "./images/Pichet en argile.png",
     "category":"tableware",
     "title":"Pichet en argile",
     "description":"Donnez à vos boissons une touche d'authenticité avec ce pichet en argile. Fabriqué à la main selon des méthodes traditionnelles, ce pichet offre une esthétique artisanale unique. Utilisez-le pour servir vos jus de fruits frais, vos cocktails ou simplement pour ajouter une touche de charme rustique à votre table. Son design classique et sa texture naturelle en font un choix polyvalent pour toutes les occasions.",
@@ -1069,7 +1069,7 @@
 
   {
     "id": 90,
-    "image": "",
+    "image": "./images/Coupe en or.png",
     "category":"tableware",
     "title":"Coupe en or",
     "description":"Apportez une touche de luxe à vos moments spéciaux avec cette coupe en or. Fabriquée avec des détails exquis, cette coupe en or pur est un véritable chef-d'œuvre de l'orfèvrerie. Son éclat doré et sa finition soignée ajoutent une touche de sophistication à chaque gorgée. Que ce soit pour célébrer une occasion spéciale ou simplement pour vous faire plaisir, cette coupe en or est l'accessoire parfait pour savourer vos boissons avec élégance.",
@@ -1081,7 +1081,7 @@
 
   {
     "id": 91,
-    "image": "",
+    "image": "./images/Gobelet en verre coloré.png",
     "category":"tableware",
     "title":"Gobelet en verre coloré",
     "description":"Ajoutez une explosion de couleurs à vos boissons avec ce gobelet en verre coloré. Fabriqué avec des techniques artisanales, ce gobelet présente des motifs vibrants et uniques qui en font un véritable accroche-regard. Que vous l'utilisiez pour siroter des jus de fruits rafraîchissants ou pour servir des cocktails festifs, ce gobelet en verre coloré ajoutera une touche de gaieté à vos moments de convivialité.",
@@ -1093,7 +1093,7 @@
 
   {
     "id": 92,
-    "image": "",
+    "image": "./images/Bol en céramique émaillée.png",
     "category":"tableware",
     "title":"Bol en céramique émaillée",
     "description":"Savourez vos repas dans ce bol en céramique émaillée qui allie beauté et fonctionnalité. Son émail lisse et brillant met en valeur les détails subtils de sa conception. Que vous l'utilisiez pour servir des soupes, des salades ou des plats d'accompagnement, ce bol ajoutera une touche de sophistication à votre table. Son design épuré et contemporain en fait un choix polyvalent pour tous les styles de cuisine.",
@@ -1105,7 +1105,7 @@
 
   {
     "id": 93,
-    "image": "",
+    "image": "./images/Assiette en faïence émaillée.png",
     "category":"tableware",
     "title":"Assiette en faïence émaillée",
     "description":"Servez vos plats avec style grâce à cette assiette en faïence émaillée. Son émail coloré et brillant ajoute une touche de vivacité à votre table, tandis que sa surface lisse facilite le nettoyage. Que ce soit pour des dîners formels ou des repas décontractés entre amis, cette assiette en faïence émaillée sera un choix esthétique et pratique.",
@@ -1117,7 +1117,7 @@
 
   {
     "id": 94,
-    "image": "",
+    "image": "./images/Vase en albâtre sculpté.png",
     "category":"tableware",
     "title":"Vase en albâtre sculpté",
     "description":"Donnez vie à vos fleurs avec ce vase en albâtre sculpté. Taillé avec précision dans cette pierre précieuse, ce vase offre une combinaison parfaite de beauté naturelle et d'artisanat exceptionnel. Placez-y vos fleurs préférées et admirez l'élégance intemporelle de cet title. Que ce soit dans le salon, la salle à manger ou le hall d'entrée, ce vase en albâtre ajoutera une touche de raffinement à votre décoration intérieure.",
@@ -1129,7 +1129,7 @@
 
   {
     "id": 95,
-    "image": "",
+    "image": "./images/Tasse en argent.png",
     "category":"tableware",
     "title":"Tasse en argent",
     "description":"Dégustez votre thé dans cette tasse en argent finement ouvragée. Fabriquée avec des détails complexes et une finition brillante, cette tasse en argent est un véritable trésor à ajouter à votre collection de vaisselle. Que vous l'utilisiez pour des occasions spéciales ou pour vous offrir une expérience de thé élégante au quotidien, cette tasse en argent ajoutera une touche de luxe à chaque dégustation.",
@@ -1141,7 +1141,7 @@
 
   {
     "id": 96,
-    "image": "",
+    "image": "./images/Cruche en argile peinte.png",
     "category":"tableware",
     "title":"Cruche en argile peinte",
     "description":"Ravivez vos repas avec cette cruche en argile peinte à la main. Son motif coloré et sa finition artistique en font un choix parfait pour servir vos boissons préférées lors de dîners entre amis ou en famille. Que ce soit pour de l'eau fraîche, du jus de fruits ou des boissons spéciales, cette cruche en argile peinte ajoutera une touche d'originalité et de convivialité à votre table.",
@@ -1153,7 +1153,7 @@
 
   {
     "id": 97,
-    "image": "",
+    "image": "./images/Coupe en verre transparent.png",
     "category":"tableware",
     "title":"Coupe en verre transparent",
     "description":"Profitez de la clarté et de l'élégance intemporelle de cette coupe en verre transparent. Sa forme classique et sa transparence cristalline en font un choix polyvalent pour toutes les occasions, que ce soit pour servir des cocktails raffinés lors de soirées spéciales ou pour déguster votre boisson préférée au quotidien. Laissez cette coupe en verre transparent briller sur votre table avec simplicité et sophistication.",
@@ -1165,7 +1165,7 @@
 
   {
     "id": 98,
-    "image": "",
+    "image": "./images/Plat en cuivre.png",
     "category":"tableware",
     "title":"Plat en cuivre",
     "description":"Apportez une touche d'élégance chaleureuse à votre table avec ce plat en cuivre magnifiquement travaillé. Fabriqué avec des matériaux de qualité, ce plat en cuivre ajoute une lueur chaleureuse à vos plats préférés. Sa surface lisse et sa brillance naturelle en font un choix polyvalent pour présenter des mets sucrés ou salés lors de vos repas. Offrez à vos invités une expérience culinaire raffinée avec ce plat en cuivre unique.",
@@ -1177,7 +1177,7 @@
 
   {
     "id": 99,
-    "image": "",
+    "image": "./images/Gobelet en ivoire.png",
     "category":"tableware",
     "title":"Gobelet en ivoire",
     "description":"Découvrez le luxe intemporel de ce gobelet en ivoire finement sculpté. Avec sa couleur naturelle et sa texture élégante, ce gobelet offre une expérience de boisson raffinée. Que vous l'utilisiez pour déguster votre whisky préféré ou pour servir des boissons spéciales lors de soirées élégantes, ce gobelet en ivoire ajoutera une touche de sophistication et de distinction à votre collection de vaisselle.",
@@ -1189,7 +1189,7 @@
 
   {
     "id": 100,
-    "image": "",
+    "image": "./images/Bol en céramique noire.png",
     "category":"tableware",
     "title":"Bol en céramique noire",
     "description":"Ajoutez une touche de sophistication à votre table avec ce bol en céramique noire. Sa finition mate et sa couleur élégante en font un choix moderne et chic pour servir des plats variés. Que vous l'utilisiez pour des soupes fumantes, des salades fraîches ou des plats d'accompagnement savoureux, ce bol en céramique noire ajoutera une touche de style à vos repas.",
