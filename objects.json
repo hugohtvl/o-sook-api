@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "./images/collier-or.png",
+    "image": "collier-or.png",
     "category": "jewel",
     "title": "Collier en or avec des perles précieuses",
     "description": "Élégant collier en or avec des perles précieuses pour ajouter une touche de glamour à votre tenue.",
@@ -13,7 +13,7 @@
 
   {
     "id": 2,
-    "image": "./images/bracelet-argent.png",
+    "image": "bracelet-argent.png",
     "category": "jewel",
     "title": "Bracelet en argent avec des motifs égyptiens",
     "description": "Bracelet en argent finement travaillé avec des motifs égyptiens pour un style unique et captivant.",
@@ -25,7 +25,7 @@
 
   {
     "id": 3,
-    "image": "./images/bague-lapis-lazuli.png",
+    "image": "bague-lapis-lazuli.png",
     "category": "jewel",
     "title": "Bague en lapis-lazuli gravée de hiéroglyphes",
     "description": "Bague en lapis-lazuli ornée de gravures détaillées de hiéroglyphes égyptiens, symbole de sophistication et de mystère.",
@@ -37,7 +37,7 @@
 
   {
     "id": 4,
-    "image": "./images/diademe-or-pierre-precieuses.png",
+    "image": "diademe-or-pierres-precieuses.png",
     "category": "jewel",
     "title": "Diadème en or orné de pierres précieuses",
     "description": "Diadème majestueux en or incrusté de pierres précieuses pour une allure royale et éblouissante.",
@@ -49,7 +49,7 @@
 
   {
     "id": 5,
-    "image": "./images/boucles-oreilles-scarabee.png",
+    "image": "boucles-oreilles-scarabee.png",
     "category": "jewel",
     "title": "Boucles d'oreilles en forme de scarabées",
     "description": "Boucles d'oreilles audacieuses en forme de scarabées, un clin d'œil à la symbolique égyptienne et un ajout unique à votre collection de bijoux.",
@@ -61,7 +61,7 @@
 
   {
     "id": 6,
-    "image": "./images/broche-or-deesse.png",
+    "image": "broche-or-deesse.png",
     "category": "jewel",
     "title": "Broche en or représentant une déesse égyptienne",
     "description": "Broche en or représentant une déesse égyptienne, un bijou exquis pour les amateurs d'histoire et de style.",
@@ -73,7 +73,7 @@
 
   {
     "id": 7,
-    "image": "./images/pendentif-oeil-horus.png",
+    "image": "pendentif-oeil-horus.png",
     "category": "jewel",
     "title": "Pendentif en forme d'œil d'Horus",
     "description": "Pendentif délicat en forme de l'œil d'Horus, un symbole de protection et de bonne fortune dans la mythologie égyptienne.",
@@ -85,7 +85,7 @@
 
   {
     "id": 8,
-    "image": "./images/torque-bronze.png",
+    "image": "torque-bronze.png",
     "category": "jewel",
     "title": "Torque en bronze avec des motifs égyptiens",
     "description": "orque en bronze incrusté de motifs égyptiens, un bijou intemporel qui reflète l'art et la culture de l'Égypte antique.",
@@ -97,7 +97,7 @@
 
   {
     "id": 9,
-    "image": "./images/bracelet-argent.png",
+    "image": "bracelet-argent.png",
     "category": "jewel",
     "title": "Bracelet de checity en argent",
     "description": "Bracelet de checity en argent fin pour ajouter une touche de grâce à vos pas.",
@@ -109,7 +109,7 @@
 
   {
     "id": 10,
-    "image": "./images/anneau-or.png",
+    "image": "anneau-or.png",
     "category": "jewel",
     "title": "Anneau en or avec un scarabée sculpté",
     "description": "Anneau en or avec un scarabée sculpté, un talisman égyptien traditionnel porteur de chance et de protection.",
@@ -121,7 +121,7 @@
 
   {
     "id": 11,
-    "image": "./images/collier-argent-turquoise.png",
+    "image": "collier-argent-turquoise.png",
     "category": "jewel",
     "title": "Collier en turquoise et en argent",
     "description": "Bracelet en argent finement ouvragé, orné de délicates pierres de turquoise, rappelant les eaux cristallines de l'Égypte antique.",
@@ -133,7 +133,7 @@
 
   {
     "id": 12,
-    "image": "./images/pendentif-croix-ansee.png",
+    "image": "pendentif-croix-ansee.png",
     "category": "jewel",
     "title": "Pendentif en forme de croix ansée ",
     "description": "Collier en argent orné d'un pendentif en forme d'ankh, symbole égyptien de la vie éternelle et de la vitalité.",
@@ -145,7 +145,7 @@
 
   {
     "id": 13,
-    "image": "./images/bracelet-corail-rouge.png",
+    "image": "bracelet-corail-rouge.png",
     "category": "jewel",
     "title": "Bracelet en corail rouge",
     "description": "Ce magnifique bracelet en corail rouge est un véritable joyau de l'Égypte antique. Les perles de corail, soigneusement sélectionnées pour leur couleur vibrante et leur lustre naturel, sont finement enfilées pour créer un bracelet élégant et raffiné. Les nuances chaudes du corail rouge évoquent le soleil éclatant et la passion de l'Égypte ancienne. Portez ce bracelet pour ajouter une touche d'élégance intemporelle à votre style et pour vous connecter avec l'héritage fascinant de cette civilisation ancienne.",
@@ -157,7 +157,7 @@
 
   {
     "id": 14,
-    "image": "./images/bague-or-amulette.png",
+    "image": "bague-or-amulette.png",
     "category": "jewel",
     "title": "Bague en or avec une amulette en forme de faucon",
     "description": "Cette bague en or incarne la puissance et la majesté des faucons, des oiseaux emblématiques de l'Égypte antique. La bague est finement travaillée en or précieux, ornée d'une amulette en forme de faucon richement détaillée. Le faucon, symbole de protection et de clairvoyance, était vénéré dans la mythologie égyptienne en tant que représentation du dieu Horus. En portant cette bague, vous vous connectez à la sagesse et à la force de cet animal légendaire, ajoutant une touche de symbolisme et d'élégance à votre style.",
@@ -169,7 +169,7 @@
 
   {
     "id": 15,
-    "image": "/images/boucles-oreilles-lotus.png",
+    "image": "boucles-oreilles-lotus.png",
     "category": "jewel",
     "title": "Boucles d'oreilles en forme de lotus",
     "description": "Boucles d'oreilles délicates en argent représentant des fleurs de lotus, symboles de beauté et d'épanouissement spirituel.",
@@ -181,7 +181,7 @@
 
   {
     "id": 16,
-    "image": "/images/diademe-argent-autruche.png",
+    "image": "diademe-argent-autruche.png",
     "category": "jewel",
     "title": "Diadème en argent orné de plumes d'autruche",
     "description": " Diadème royal en bronze richement décoré de plumes d'autruche, rappelant la grâce et l'élégance de la faune égyptienne.",
@@ -193,7 +193,7 @@
 
   {
     "id": 17,
-    "image": "./images/broche-serpent-or.png",
+    "image": "broche-serpent-or.png",
     "category": "jewel",
     "title": "Broche en forme de serpent en or",
     "description": "Broche en or représentant un serpent enroulé, symbole de protection et de sagesse dans la mythologie égyptienne.",
@@ -205,7 +205,7 @@
 
   {
     "id": 18,
-    "image": "./images/pendentif-grenat.png",
+    "image": "pendentif-grenat.png",
     "category": "jewel",
     "title": "Pendentif en grenat en forme de tête de lion",
     "description": "Pendentif en grenat sculpté en forme de tête de lion, évoquant la force et le courage des rois de l'ancienne Égypte.",
@@ -217,7 +217,7 @@
 
   {
     "id": 19,
-    "image": "./images/bracelet-ivoire.png",
+    "image": "bracelet-ivoire.png",
     "category": "jewel",
     "title": "Bracelet en ivoire sculpté",
     "description": "Bracelet raffiné en ivoire finement sculpté, témoignant de l'artisanat délicat et de la précision artistique de l'époque.",
@@ -229,7 +229,7 @@
 
   {
     "id": 20,
-    "image": "./images/collier-perles-jaspe.png",
+    "image": "collier-perles-jaspe.png",
     "category": "jewel",
     "title": "Collier en perles de jaspe rouge",
     "description": "Collier élégant composé de perles de jaspe rouge, symbole de passion et de vitalité.",
@@ -253,7 +253,7 @@
 
   {
     "id": 22,
-    "image": "",
+    "image": "Jardin suspendu.png",
     "category": "real-estate",
     "title": "Jardin suspendu",
     "description": "Silence, ça pousse",
@@ -265,7 +265,7 @@
 
   {
     "id": 23,
-    "image": "",
+    "image": "Puit.png",
     "category": "real-estate",
     "title": "Puits",
     "description": "De l'eau fraîche en plein désert",
@@ -277,7 +277,7 @@
 
   {
     "id": 24,
-    "image": "",
+    "image": "Pigeonnier.png",
     "category": "real-estate",
     "title": "Pigeonnier",
     "description": "Un beau pigeonnier tasvu",
@@ -289,10 +289,10 @@
 
   {
     "id": 25,
-    "image": "",
+    "image": "Maison en briques de terre cuite4.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Belle maison",
+    "description": "Elle est belle la maison",
     "seller": "Samir",
     "city": "Gizeh",
     "isFavorite": false,
@@ -301,10 +301,10 @@
 
   {
     "id": 26,
-    "image": "",
+    "image": "Maison en briques de terre cuite2.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "grosse maison",
+    "description": "Elle est grosse la maison",
     "seller": "Mokthar",
     "city": "Le Caire",
     "isFavorite": false,
@@ -313,10 +313,10 @@
 
   {
     "id": 27,
-    "image": "",
+    "image": "Maison en briques de terre cuite3.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Maison en fer",
+    "description": "C'est du fer",
     "seller": "Moktharia",
     "city": "Louxor",
     "isFavorite": false,
@@ -325,10 +325,10 @@
 
   {
     "id": 28,
-    "image": "",
+    "image": "Maison en briques de terre cuite.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Maison Cher",
+    "description": "C'est cher ici",
     "seller": "Fatima",
     "city": "Le Caire",
     "isFavorite": false,
@@ -337,10 +337,10 @@
 
   {
     "id": 29,
-    "image": "",
+    "image": "Maison en briques de terre cuite13.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Maison pas en terre",
+    "description": "C'est pas de la terre",
     "seller": "Halima",
     "city": "Louxor",
     "isFavorite": false,
@@ -349,10 +349,10 @@
 
   {
     "id": 30,
-    "image": "",
+    "image": "Maison en briques de terre cuite12.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Maison en terre",
+    "description": "C'est de la terre",
     "seller": "Anubis",
     "city": "Gizeh",
     "isFavorite": false,
@@ -361,10 +361,10 @@
 
   {
     "id": 31,
-    "image": "",
+    "image": "Maison en briques de terre cuite10.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Maison en briques",
+    "description": "C'est de la briques",
     "seller": "Obelisk le tourmenteur",
     "city": "Le Caire",
     "isFavorite": false,
@@ -373,10 +373,10 @@
 
   {
     "id": 32,
-    "image": "",
+    "image": "Maison en briques de terre cuite9.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "maison pas en brique",
+    "description": "c'est pas de la brique",
     "seller": "Marie",
     "city": "Louxor",
     "isFavorite": false,
@@ -385,10 +385,10 @@
 
   {
     "id": 33,
-    "image": "",
+    "image": "Maison en briques de terre cuite8.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Maison de bg",
+    "description": "on est bien",
     "seller": "Satet",
     "city": "Gizeh",
     "isFavorite": false,
@@ -397,10 +397,10 @@
 
   {
     "id": 34,
-    "image": "",
+    "image": "Maison en briques de terre cuite7.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Maison",
+    "description": "Maison",
     "seller": "Nefertiti",
     "city": "Louxor",
     "isFavorite": false,
@@ -409,10 +409,10 @@
 
   {
     "id": 35,
-    "image": "",
+    "image": "Maison en briques de terre cuite6.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Maison de riche",
+    "description": "Si tu veux pécho",
     "seller": "Magicien des ténèbres",
     "city": "Gizeh",
     "isFavorite": false,
@@ -421,10 +421,10 @@
 
   {
     "id": 36,
-    "image": "",
+    "image": "Maison en briques de terre cuite5.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Maison de zinzin",
+    "description": "On rigole pas ici",
     "seller": "Ishtar",
     "city": "Alexandrie",
     "isFavorite": false,
@@ -433,10 +433,10 @@
 
   {
     "id": 37,
-    "image": "",
+    "image": "Maison en briques de terre cuite4.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Maison en briques",
+    "description": "On est sérieux ici",
     "seller": "AbdelMehdi",
     "city": "Le Caire",
     "isFavorite": false,
@@ -445,10 +445,10 @@
 
   {
     "id": 38,
-    "image": "",
+    "image": "Maison en briques de terre cuite3.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Belle baraque",
+    "description": "VIENS LA",
     "seller": "AbdelMehdy",
     "city": "Louxor",
     "isFavorite": false,
@@ -457,10 +457,10 @@
 
   {
     "id": 39,
-    "image": "",
+    "image": "Maison en briques de terre cuite2.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Maison de fou",
+    "description": "Téma la villa",
     "seller": "Aisha",
     "city": "Gizeh",
     "isFavorite": false,
@@ -469,10 +469,10 @@
 
   {
     "id": 40,
-    "image": "",
+    "image": "Maison en briques de terre cuite.png",
     "category": "real-estate",
-    "title": "",
-    "description": "",
+    "title": "Grosse maison",
+    "description": "Achete",
     "seller": "Dj khaled",
     "city": "Louxor",
     "isFavorite": false,
@@ -481,7 +481,7 @@
 
   {
     "id": 41,
-    "image": "",
+    "image": "Chat.jpg",
     "category": "animal",
     "title": "Chat",
     "description": "Offrez-vous la compagnie élégante et mystérieuse d'un chat égyptien ancien. Avec son allure gracieuse et son regard pénétrant, ce chat miniature en résine est un véritable hommage aux félins vénérés dans l'Égypte antique. Que ce soit pour décorer votre espace de vie ou pour offrir un cadeau unique, ce chat égyptien incarne l'élégance et le charme intemporel de ces créatures adorées depuis des millénaires.",
@@ -493,7 +493,7 @@
 
   {
     "id": 42,
-    "image": "",
+    "image": "Faucon.jpg",
     "category": "animal",
     "title": "Faucon",
     "description": "Élevez votre décoration intérieure vers de nouveaux sommets avec ce majestueux faucon en métal. Inspiré des oiseaux de proie vénérés dans l'Égypte ancienne, cette sculpture détaillée en acier inoxydable capture l'esprit de la grandeur et de la puissance. Placez-le sur une étagère, une table basse ou un bureau pour ajouter une touche de noblesse à votre espace.",
@@ -505,7 +505,7 @@
 
   {
     "id": 43,
-    "image": "",
+    "image": "Scarabée.jpg",
     "category": "animal",
     "title": "Scarabée",
     "description": "Admirez la symbolique mystique du scarabée dans cette magnifique sculpture en bronze. Représentant la renaissance et la protection, ce scarabée en métal patiné est un véritable trésor. Son design précis et ses détails finement ciselés en font un objet de décoration fascinant pour votre intérieur. Placez-le sur un socle ou utilisez-le comme un objet porte-bonheur dans votre quotidien.",
@@ -517,7 +517,7 @@
 
   {
     "id": 44,
-    "image": "",
+    "image": "Crocodile.jpg",
     "category": "animal",
     "title": "Crocodile",
     "description": "Capturez la puissance et la majesté du Nil avec cette sculpture de crocodile en résine. Inspirée des créatures emblématiques des eaux égyptiennes, cette pièce artistique est une représentation saisissante de la force et de la grâce. Que ce soit pour décorer votre espace extérieur ou pour ajouter une touche exotique à votre salon, ce crocodile en résine est un ajout audacieux et captivant à votre collection.",
@@ -529,7 +529,7 @@
 
   {
     "id": 45,
-    "image": "",
+    "image": "Ibis.jpg",
     "category": "animal",
     "title": "Ibis",
     "description": "Ajoutez une touche d'élégance aérienne à votre décoration avec cet ibis en céramique émaillée. Inspiré des oiseaux sacrés de l'Égypte ancienne, cette sculpture en céramique évoque la grâce et la sérénité. Placez-le sur une étagère, un rebord de fenêtre ou une table pour apporter une note de légèreté à votre intérieur. Chaque détail de cette pièce délicatement conçue raconte une histoire d'admiration pour la nature.",
@@ -541,7 +541,7 @@
 
   {
     "id": 46,
-    "image": "",
+    "image": "cobra-royal.jpeg",
     "category": "animal",
     "title": "Cobra",
     "description": "Explorez le mystère hypnotique du cobra avec cette sculpture en bronze. Fabriquée avec précision, cette pièce capturera tous les regards avec sa position féroce et son regard perçant. Que vous soyez passionné par les symboles de protection ou que vous cherchiez simplement une pièce d'art unique, ce cobra en bronze est un choix saisissant qui apportera une touche de sophistication à votre espace.",
@@ -553,7 +553,7 @@
 
   {
     "id": 47,
-    "image": "",
+    "image": "Lion.jpg",
     "category": "animal",
     "title": "Lion",
     "description": "Dominez votre décoration avec cette imposante sculpture de lion en résine. Inspirée de la puissance et du courage des lions dans la culture égyptienne, cette pièce artistique est un rappel majestueux de la grandeur de la nature sauvage. Placez-la sur un piédestal ou utilisez-la comme un point focal dans votre espace pour créer une ambiance digne des pharaons.",
@@ -565,7 +565,7 @@
 
   {
     "id": 48,
-    "image": "",
+    "image": "hippopotame.jpg",
     "category": "animal",
     "title": "Hippopotame",
     "description": "Apportez un charme unique et exotique à votre intérieur avec cette sculpture d'hippopotame en céramique émaillée. Représentant la force tranquille de cet animal emblématique des rivières du Nil, cette pièce artistique apporte une touche de nature sauvage à votre décoration. Placez-la sur un meuble, une étagère ou une console pour un effet décoratif original et captivant.",
@@ -577,7 +577,7 @@
 
   {
     "id": 49,
-    "image": "",
+    "image": "Babouin.jpg",
     "category": "animal",
     "title": "Babouin",
     "description": "Donnez une touche de malice et d'intelligence à votre espace avec cette sculpture de babouin en résine. Inspiré des singes vénérés dans l'Égypte ancienne, cette pièce artistique capturera l'attention avec son expression facétieuse et son design détaillé. Que vous l'utilisiez comme objet décoratif ou comme symbole de sagesse, ce babouin en résine ajoutera une touche de personnalité à votre intérieur.",
@@ -589,7 +589,7 @@
 
   {
     "id": 50,
-    "image": "",
+    "image": "Chacal.jpg",
     "category": "animal",
     "title": "Chacal",
     "description": "Explorez le mystère de l'au-delà avec cette sculpture de chacal en bronze. Inspiré du dieu égyptien Anubis, cette pièce artistique incarne la protection et la transition entre la vie et la mort. Placez cette sculpture sur une étagère ou une table basse pour ajouter une ambiance mystique à votre espace.",
@@ -601,7 +601,7 @@
 
   {
     "id": 51,
-    "image": "",
+    "image": "Oie.webp",
     "category": "animal",
     "title": "Oie",
     "description": "Ajoutez une note de grâce et de beauté à votre décoration avec cette sculpture d'oie en résine. Inspirée des oiseaux emblématiques des terres fertiles du Nil, cette pièce artistique est un symbole de prospérité et de protection. Placez-la dans votre jardin, sur une terrasse ou à l'intérieur pour créer une atmosphère sereine et accueillante.",
@@ -613,7 +613,7 @@
 
   {
     "id": 52,
-    "image": "",
+    "image": "Gazelle.png",
     "category": "animal",
     "title": "Gazelle",
     "description": "Capturez la grâce et la légèreté de la gazelle avec cette sculpture en bronze. Inspirée des animaux emblématiques des vastes étendues désertiques de l'Égypte, cette pièce artistique est un hommage à la beauté naturelle. Placez-la sur une étagère, une console ou une table basse pour apporter une touche d'élégance à votre intérieur.",
@@ -625,7 +625,7 @@
 
   {
     "id": 53,
-    "image": "",
+    "image": "Elephant.jpg",
     "category": "animal",
     "title": "Éléphant",
     "description": "Apportez la majesté de la savane à votre décoration avec cette sculpture d'éléphant en résine. Inspirée des animaux vénérés dans la culture égyptienne, cette pièce artistique est un rappel de la force et de la sagesse. Placez-la dans votre salon, votre bureau ou votre espace extérieur pour créer une atmosphère captivante.",
@@ -637,7 +637,7 @@
 
   {
     "id": 54,
-    "image": "",
+    "image": "Gazelle dorcas.jpg",
     "category": "animal",
     "title": "Gazelle dorcas",
     "description": "Laissez la beauté de la gazelle dorcas captiver votre regard avec cette sculpture en résine. Inspirée des animaux gracieux qui peuplent les déserts égyptiens, cette pièce artistique est un véritable chef-d'œuvre de réalisme et de détail. Placez-la sur une étagère, une commode ou une console pour créer une atmosphère sereine et apaisante.",
@@ -661,7 +661,7 @@
 
   {
     "id": 56,
-    "image": "",
+    "image": "Giraffe.jpg",
     "category": "animal",
     "title": "Girafe",
     "description": "Apportez une touche d'élégance et d'exotisme à votre décoration avec cette sculpture de girafe en résine. Inspirée des animaux gracieux des terres africaines, cette pièce artistique ajoute une dimension verticale et audacieuse à votre espace. Placez-la dans le salon, la chambre ou même le jardin pour créer un effet saisissant",
@@ -673,10 +673,10 @@
 
   {
     "id": 57,
-    "image": "",
+    "image": "Bousier.jpg",
     "category": "animal",
     "title": "Bousier",
-    "description": "",
+    "description": "Qui l'a appelé comme ça",
     "seller": "Heddet",
     "city": "Gizeh",
     "isFavorite": false,
@@ -685,7 +685,7 @@
 
   {
     "id": 58,
-    "image": "",
+    "image": "Autruche.jpeg",
     "category": "animal",
     "title": "Autruche",
     "description": "Apportez une touche exotique à votre décoration avec cette sculpture d'autruche en résine. Inspirée des oiseaux emblématiques des vastes plaines du désert, cette pièce artistique apporte une note d'originalité et d'élégance à votre intérieur. Placez-la sur une étagère, une console ou une table basse pour créer une atmosphère unique.",
@@ -697,7 +697,7 @@
 
   {
     "id": 59,
-    "image": "",
+    "image": "Vautour.jpeg",
     "category": "animal",
     "title": "Vautour",
     "description": "Élevez votre décoration avec cette sculpture de vautour en bronze. Inspirée des oiseaux de proie vénérés dans l'Égypte ancienne, cette pièce artistique est un symbole de protection et de vigilance. Placez-la sur une étagère, un bureau ou une table basse pour apporter une touche de majesté à votre espace.",
@@ -709,7 +709,7 @@
 
   {
     "id": 60,
-    "image": "",
+    "image": "Panthère.webp",
     "category": "animal",
     "title": "Panthère",
     "description": "Ajoutez une touche de mystère et de puissance à votre décoration avec cette sculpture de panthère en résine. Inspirée des félins emblématiques des régions sauvages de l'Égypte, cette pièce artistique incarne l'élégance et la force. Placez-la sur une étagère, une table basse ou un rebord de fenêtre pour créer une atmosphère captivante.",
@@ -721,10 +721,10 @@
 
   {
     "id": 61,
-    "image": "",
+    "image": "Figurine en terre cuite.png",
     "category": "trinket",
     "title": "Figurine en terre cuite représentant un dieu égyptien",
-    "description": "",
+    "description": "mon gamin a fait ca, qui le veut",
     "seller": "Ramses II",
     "city": "Gizeh",
     "isFavorite": false,
@@ -733,10 +733,10 @@
 
   {
     "id": 62,
-    "image": "",
+    "image": "Objet de culte miniature.png",
     "category": "trinket",
     "title": "Objet de culte miniature en or",
-    "description": "",
+    "description": "que des fous pour avoir ca",
     "seller": "Ramses III",
     "city": "Alexandrie",
     "isFavorite": false,
@@ -745,10 +745,10 @@
 
   {
     "id": 63,
-    "image": "",
+    "image": "Amulette en forme de scarabée.png",
     "category": "trinket",
     "title": "Amulette en forme de scarabée",
-    "description": "",
+    "description": "dégueu",
     "seller": "Ramses IV",
     "city": "Gizeh",
     "isFavorite": false,
@@ -757,10 +757,10 @@
 
   {
     "id": 64,
-    "image": "",
+    "image": "Petite statue de pharaon en pierre.png",
     "category": "trinket",
     "title": "Petite statue de pharaon en pierre",
-    "description": "",
+    "description": "c'est laid, ca dégage",
     "seller": "Ramses V",
     "city": "Le Caire",
     "isFavorite": false,
@@ -769,10 +769,10 @@
 
   {
     "id": 65,
-    "image": "",
+    "image": "Figurine de chat en céramique.png",
     "category": "trinket",
     "title": "Figurine de chat en céramique",
-    "description": "",
+    "description": "GROS CHAT SA MERE",
     "seller": "Ramses VII",
     "city": "Louxor",
     "isFavorite": false,
@@ -781,7 +781,7 @@
 
   {
     "id": 66,
-    "image": "",
+    "image": "Objet décoratif en faïence émaillée.png",
     "category": "trinket",
     "title": "Objet décoratif en faïence émaillée",
     "description": "",
@@ -805,7 +805,7 @@
 
   {
     "id": 68,
-    "image": "",
+    "image": "Petit objet en bronze avec des hiéroglyphes.png",
     "category": "trinket",
     "title": "Petit objet en bronze avec des hiéroglyphes",
     "description": "",
@@ -817,10 +817,10 @@
 
   {
     "id": 69,
-    "image": "",
+    "image": "Petit coffret en bois avec des incrustations de pierres précieuses2.png",
     "category": "trinket",
     "title": "Miniature de pyramide en bois",
-    "description": "",
+    "description": "gros triangle",
     "seller": "Ramses XI",
     "city": "Louxor",
     "isFavorite": false,
@@ -829,11 +829,11 @@
 
   {
     "id": 70,
-    "image": "",
+    "image": "pendentif-grenat.png",
     "category": "trinket",
     "title": "Pendentif en forme de crocodile en argent",
-    "description": "",
-    "seller": "",
+    "description": "lacoste de fou",
+    "seller": "lafouine",
     "city": "Gizeh",
     "isFavorite": false,
     "price": 22
@@ -841,10 +841,10 @@
 
   {
     "id": 71,
-    "image": "",
+    "image": "Petit coffret en bois avec des incrustations de pierres précieuses.png",
     "category": "trinket",
     "title": "Objet de jeu de société en bois",
-    "description": "",
+    "description": "ca triche ici",
     "seller": "Sélim",
     "city": "Alexandrie",
     "isFavorite": false,
@@ -853,10 +853,10 @@
 
   {
     "id": 72,
-    "image": "",
+    "image": "Babouin.jpg",
     "category": "trinket",
     "title": "Statuette de babouin en bronze",
-    "description": "",
+    "description": "singedefou",
     "seller": "Zahra",
     "city": "Louxor",
     "isFavorite": false,
@@ -865,10 +865,10 @@
 
   {
     "id": 73,
-    "image": "",
+    "image": "Vase en albâtre sculpté.png",
     "category": "trinket",
     "title": "Souvenir en albâtre sculpté",
-    "description": "",
+    "description": "A l'ancienne t'as vu",
     "seller": "Mourad",
     "city": "Le Caire",
     "isFavorite": false,
@@ -877,7 +877,7 @@
 
   {
     "id": 74,
-    "image": "",
+    "image": "Petit coffret en bois avec des incrustations de pierres précieuses.png",
     "category": "trinket",
     "title": "Petit coffret en bois avec des incrustations de pierres précieuses",
     "description": "",
@@ -889,10 +889,10 @@
 
   {
     "id": 75,
-    "image": "",
+    "image": "Objet décoratif en faïence émaillée.png",
     "category": "trinket",
     "title": "Figurine d'oiseau en faïence",
-    "description": "",
+    "description": "Sulfura",
     "seller": "Le J",
     "city": "Louxor",
     "isFavorite": false,
@@ -901,10 +901,10 @@
 
   {
     "id": 76,
-    "image": "",
+    "image": "Objet décoratif en faïence émaillée.png",
     "category": "trinket",
     "title": "Petite figurine de danseuse en bronze",
-    "description": "",
+    "description": "cbo",
     "seller": "Farah",
     "city": "Gizeh",
     "isFavorite": false,
@@ -913,10 +913,10 @@
 
   {
     "id": 77,
-    "image": "",
+    "image": "Petite statue de pharaon en pierre2.png",
     "category": "trinket",
     "title": "Petite statue d'Osiris en terre cuite",
-    "description": "",
+    "description": "grossestatue",
     "seller": "Tarek",
     "city": "Louxor",
     "isFavorite": false,
@@ -925,7 +925,7 @@
 
   {
     "id": 78,
-    "image": "",
+    "image": "Objet de toilette miniature en bronze.png",
     "category": "trinket",
     "title": "Objet de toilette miniature en bronze",
     "description": "",
@@ -937,7 +937,7 @@
 
   {
     "id": 79,
-    "image": "",
+    "image": "Bougeoir en argile modelée.png",
     "category": "trinket",
     "title": "Bougeoir en argile modelée",
     "description": "",
@@ -950,7 +950,7 @@
   {
     "id": 80,
     "image": "trinket",
-    "category": "",
+    "category": "Bougeoir en argile modelée2.png",
     "title": "Souvenir en ivoire représentant une déesse égyptienne",
     "description": "",
     "seller": "Ayman",
@@ -961,7 +961,7 @@
 
   {
     "id": 81,
-    "image": "./images/Coupe en céramique.png",
+    "image": "Coupe en céramique.png",
     "category": "tableware",
     "title": "Coupe en céramique",
     "description": "Découvrez l'élégance intemporelle de cette coupe en céramique. Fabriquée à la main par des artisans qualifiés, cette coupe allie beauté et fonctionnalité. Parfaite pour servir vos boissons préférées lors de dîners élégants ou pour ajouter une touche artistique à votre décoration intérieure. Sa finition lisse et son design soigné en font un choix polyvalent et esthétique.",
@@ -973,7 +973,7 @@
 
   {
     "id": 82,
-    "image": "./images/Assiette en argile.png",
+    "image": "Assiette en argile.png",
     "category": "tableware",
     "title": "Assiette en argile",
     "description": "Apportez une touche rustique et authentique à votre table avec cette assiette en argile. Faite à la main avec des matériaux naturels, chaque assiette est unique avec ses variations de couleurs et de textures. Idéale pour présenter vos plats préférés lors de repas conviviaux ou pour ajouter une touche chaleureuse à votre décoration de cuisine.",
@@ -985,7 +985,7 @@
 
   {
     "id": 83,
-    "image": "./images/Gobelet en albâtre.png",
+    "image": "Gobelet en albâtre.png",
     "category": "tableware",
     "title": "Gobelet en albâtre",
     "description": "Offrez-vous une expérience de boisson luxueuse avec ce magnifique gobelet en albâtre. Sculpté à partir d'une pierre précieuse, ce gobelet est à la fois élégant et fonctionnel. Sa texture lisse et sa couleur douce en font un choix raffiné pour déguster vos boissons préférées. Ajoutez une touche de sophistication à votre collection de vaisselle avec ce gobelet unique.",
@@ -997,7 +997,7 @@
 
   {
     "id": 84,
-    "image": "./images/bol en pierre.png",
+    "image": "bol en pierre.png",
     "category": "tableware",
     "title": "Bol en pierre",
     "description": "Découvrez la beauté naturelle de ce bol en pierre, taillé avec soin dans une pièce unique. Son aspect robuste et sa texture organique en font un choix parfait pour servir des soupes, des salades ou des plats d'accompagnement. Chaque bol est une œuvre d'art en soi, avec des motifs et des nuances uniques qui racontent une histoire vieille de milliers d'années.",
@@ -1009,7 +1009,7 @@
 
   {
     "id": 85,
-    "image": "./images/Plateau en bois.png",
+    "image": "Plateau en bois.png",
     "category": "tableware",
     "title": "Plateau en bois",
     "description": "Ajoutez une touche de chaleur et de charme naturel à vos repas avec ce plateau en bois. Fabriqué à partir de bois d'excellente qualité, ce plateau est non seulement pratique pour servir vos plats préférés, mais il est également un title de décoration polyvalent. Placez-le sur votre table à manger ou utilisez-le pour créer une ambiance rustique lors de vos événements spéciaux.",
@@ -1021,7 +1021,7 @@
 
   {
     "id": 86,
-    "image": "./images/Vase en faïence.png",
+    "image": "Vase en faïence.png",
     "category": "tableware",
     "title": "Vase en faïence",
     "description": "Sublimez votre espace avec ce magnifique vase en faïence. Sa forme élégante et ses motifs inspirés de l'Égypte antique en font un choix idéal pour mettre en valeur vos fleurs préférées. Placez-le sur une étagère, une table basse ou une commode pour apporter une touche artistique et colorée à votre intérieur. Ce vase en faïence est le complément parfait pour créer une ambiance florale harmonieuse.",
@@ -1033,7 +1033,7 @@
 
   {
     "id": 87,
-    "image": "./images/Cruche en terre cuite.png",
+    "image": "Cruche en terre cuite.png",
     "category": "tableware",
     "title": "Cruche en terre cuite",
     "description": "Cette cruche en terre cuite incarne le charme rustique et l'authenticité de l'Égypte ancienne. Fabriquée à partir de matériaux naturels et façonnée à la main, cette cruche offre une esthétique traditionnelle et intemporelle. Utilisez-la pour servir de l'eau fraîche ou comme un élément décoratif unique dans votre cuisine ou votre salle à manger.",
@@ -1045,7 +1045,7 @@
 
   {
     "id": 88,
-    "image": "./images/Tasse en bronze de.png",
+    "image": "Tasse en bronze de.png",
     "category": "tableware",
     "title": "Tasse en bronze",
     "description": "Dégustez votre café du matin avec style grâce à cette tasse en bronze exquise. Fabriquée avec soin par des artisans qualifiés, cette tasse en bronze offre une allure antique et une sensation de luxe. Son design ergonomique et sa finition brillante en font un choix élégant et pratique pour vos moments de détente. Ajoutez une touche de sophistication à votre rituel du café avec cette tasse unique en son genre.",
@@ -1057,7 +1057,7 @@
 
   {
     "id": 89,
-    "image": "./images/Pichet en argile.png",
+    "image": "Pichet en argile.png",
     "category": "tableware",
     "title": "Pichet en argile",
     "description": "Donnez à vos boissons une touche d'authenticité avec ce pichet en argile. Fabriqué à la main selon des méthodes traditionnelles, ce pichet offre une esthétique artisanale unique. Utilisez-le pour servir vos jus de fruits frais, vos cocktails ou simplement pour ajouter une touche de charme rustique à votre table. Son design classique et sa texture naturelle en font un choix polyvalent pour toutes les occasions.",
@@ -1069,7 +1069,7 @@
 
   {
     "id": 90,
-    "image": "./images/Coupe en or.png",
+    "image": "Coupe en or.png",
     "category": "tableware",
     "title": "Coupe en or",
     "description": "Apportez une touche de luxe à vos moments spéciaux avec cette coupe en or. Fabriquée avec des détails exquis, cette coupe en or pur est un véritable chef-d'œuvre de l'orfèvrerie. Son éclat doré et sa finition soignée ajoutent une touche de sophistication à chaque gorgée. Que ce soit pour célébrer une occasion spéciale ou simplement pour vous faire plaisir, cette coupe en or est l'accessoire parfait pour savourer vos boissons avec élégance.",
@@ -1081,7 +1081,7 @@
 
   {
     "id": 91,
-    "image": "./images/Gobelet en verre coloré.png",
+    "image": "Gobelet en verre coloré.png",
     "category": "tableware",
     "title": "Gobelet en verre coloré",
     "description": "Ajoutez une explosion de couleurs à vos boissons avec ce gobelet en verre coloré. Fabriqué avec des techniques artisanales, ce gobelet présente des motifs vibrants et uniques qui en font un véritable accroche-regard. Que vous l'utilisiez pour siroter des jus de fruits rafraîchissants ou pour servir des cocktails festifs, ce gobelet en verre coloré ajoutera une touche de gaieté à vos moments de convivialité.",
@@ -1093,7 +1093,7 @@
 
   {
     "id": 92,
-    "image": "./images/Bol en céramique émaillée.png",
+    "image": "Bol en céramique émaillée.png",
     "category": "tableware",
     "title": "Bol en céramique émaillée",
     "description": "Savourez vos repas dans ce bol en céramique émaillée qui allie beauté et fonctionnalité. Son émail lisse et brillant met en valeur les détails subtils de sa conception. Que vous l'utilisiez pour servir des soupes, des salades ou des plats d'accompagnement, ce bol ajoutera une touche de sophistication à votre table. Son design épuré et contemporain en fait un choix polyvalent pour tous les styles de cuisine.",
@@ -1105,7 +1105,7 @@
 
   {
     "id": 93,
-    "image": "./images/Assiette en faïence émaillée.png",
+    "image": "Assiette en faïence émaillée.png",
     "category": "tableware",
     "title": "Assiette en faïence émaillée",
     "description": "Servez vos plats avec style grâce à cette assiette en faïence émaillée. Son émail coloré et brillant ajoute une touche de vivacité à votre table, tandis que sa surface lisse facilite le nettoyage. Que ce soit pour des dîners formels ou des repas décontractés entre amis, cette assiette en faïence émaillée sera un choix esthétique et pratique.",
@@ -1117,7 +1117,7 @@
 
   {
     "id": 94,
-    "image": "./images/Vase en albâtre sculpté.png",
+    "image": "Vase en albâtre sculpté.png",
     "category": "tableware",
     "title": "Vase en albâtre sculpté",
     "description": "Donnez vie à vos fleurs avec ce vase en albâtre sculpté. Taillé avec précision dans cette pierre précieuse, ce vase offre une combinaison parfaite de beauté naturelle et d'artisanat exceptionnel. Placez-y vos fleurs préférées et admirez l'élégance intemporelle de cet title. Que ce soit dans le salon, la salle à manger ou le hall d'entrée, ce vase en albâtre ajoutera une touche de raffinement à votre décoration intérieure.",
@@ -1129,7 +1129,7 @@
 
   {
     "id": 95,
-    "image": "./images/Tasse en argent.png",
+    "image": "Tasse en argent.png",
     "category": "tableware",
     "title": "Tasse en argent",
     "description": "Dégustez votre thé dans cette tasse en argent finement ouvragée. Fabriquée avec des détails complexes et une finition brillante, cette tasse en argent est un véritable trésor à ajouter à votre collection de vaisselle. Que vous l'utilisiez pour des occasions spéciales ou pour vous offrir une expérience de thé élégante au quotidien, cette tasse en argent ajoutera une touche de luxe à chaque dégustation.",
@@ -1141,7 +1141,7 @@
 
   {
     "id": 96,
-    "image": "./images/Cruche en argile peinte.png",
+    "image": "Cruche en argile peinte.png",
     "category": "tableware",
     "title": "Cruche en argile peinte",
     "description": "Ravivez vos repas avec cette cruche en argile peinte à la main. Son motif coloré et sa finition artistique en font un choix parfait pour servir vos boissons préférées lors de dîners entre amis ou en famille. Que ce soit pour de l'eau fraîche, du jus de fruits ou des boissons spéciales, cette cruche en argile peinte ajoutera une touche d'originalité et de convivialité à votre table.",
@@ -1153,7 +1153,7 @@
 
   {
     "id": 97,
-    "image": "./images/Coupe en verre transparent.png",
+    "image": "Coupe en verre transparent.png",
     "category": "tableware",
     "title": "Coupe en verre transparent",
     "description": "Profitez de la clarté et de l'élégance intemporelle de cette coupe en verre transparent. Sa forme classique et sa transparence cristalline en font un choix polyvalent pour toutes les occasions, que ce soit pour servir des cocktails raffinés lors de soirées spéciales ou pour déguster votre boisson préférée au quotidien. Laissez cette coupe en verre transparent briller sur votre table avec simplicité et sophistication.",
@@ -1165,7 +1165,7 @@
 
   {
     "id": 98,
-    "image": "./images/Plat en cuivre.png",
+    "image": "Plat en cuivre.png",
     "category": "tableware",
     "title": "Plat en cuivre",
     "description": "Apportez une touche d'élégance chaleureuse à votre table avec ce plat en cuivre magnifiquement travaillé. Fabriqué avec des matériaux de qualité, ce plat en cuivre ajoute une lueur chaleureuse à vos plats préférés. Sa surface lisse et sa brillance naturelle en font un choix polyvalent pour présenter des mets sucrés ou salés lors de vos repas. Offrez à vos invités une expérience culinaire raffinée avec ce plat en cuivre unique.",
@@ -1177,7 +1177,7 @@
 
   {
     "id": 99,
-    "image": "./images/Gobelet en ivoire.png",
+    "image": "Gobelet en ivoire.png",
     "category": "tableware",
     "title": "Gobelet en ivoire",
     "description": "Découvrez le luxe intemporel de ce gobelet en ivoire finement sculpté. Avec sa couleur naturelle et sa texture élégante, ce gobelet offre une expérience de boisson raffinée. Que vous l'utilisiez pour déguster votre whisky préféré ou pour servir des boissons spéciales lors de soirées élégantes, ce gobelet en ivoire ajoutera une touche de sophistication et de distinction à votre collection de vaisselle.",
@@ -1189,7 +1189,7 @@
 
   {
     "id": 100,
-    "image": "./images/Bol en céramique noire.png",
+    "image": "Bol en céramique noire.png",
     "category": "tableware",
     "title": "Bol en céramique noire",
     "description": "Ajoutez une touche de sophistication à votre table avec ce bol en céramique noire. Sa finition mate et sa couleur élégante en font un choix moderne et chic pour servir des plats variés. Que vous l'utilisiez pour des soupes fumantes, des salades fraîches ou des plats d'accompagnement savoureux, ce bol en céramique noire ajoutera une touche de style à vos repas.",
@@ -1201,7 +1201,7 @@
 
   {
     "id": 101,
-    "image": "",
+    "image": "Luge en bois.png",
     "category": "vehicle",
     "title": "Traineau en bois",
     "description": "Un  petit traineau en bois peu usagé",
@@ -1213,7 +1213,7 @@
 
   {
     "id": 102,
-    "image": "",
+    "image": "oBâteau de transport.png",
     "category": "vehicle",
     "title": "Bateau de transport de passagers",
     "description": "Stu veux aller d'un point A à un point B, c'est pour toa quoi",
@@ -1225,10 +1225,10 @@
 
   {
     "id": 103,
-    "image": "",
+    "image": "Charriot à main2.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Charriot à main",
+    "description": "Pas de meufs pour",
     "seller": "Khéprien",
     "city": "Louxor",
     "isFavorite": false,
@@ -1237,10 +1237,10 @@
 
   {
     "id": 104,
-    "image": "",
+    "image": "Charriot à main.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Charriot à main",
+    "description": "Tu pécho pas avec ca",
     "seller": "Ptolémée",
     "city": "Le Caire",
     "isFavorite": false,
@@ -1249,10 +1249,10 @@
 
   {
     "id": 105,
-    "image": "",
+    "image": "Charriot Royal.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Charriot Royal",
+    "description": "Vraiment bg",
     "seller": "Hemen",
     "city": "Gizeh",
     "isFavorite": false,
@@ -1261,10 +1261,10 @@
 
   {
     "id": 106,
-    "image": "",
+    "image": "Charriot Royal.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Charriot Royal",
+    "description": "Bogosse",
     "seller": "Seth",
     "city": "Alexandrie",
     "isFavorite": false,
@@ -1273,10 +1273,10 @@
 
   {
     "id": 107,
-    "image": "",
+    "image": "Char de guerre2.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Char de guerre",
+    "description": "Utile pour les magasins Nike",
     "seller": "Ka",
     "city": "Gizeh",
     "isFavorite": false,
@@ -1285,10 +1285,10 @@
 
   {
     "id": 108,
-    "image": "",
+    "image": "Char de guerre.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Char de guerre",
+    "description": "On va tout casser",
     "seller": "Horus",
     "city": "Le Caire",
     "isFavorite": false,
@@ -1297,10 +1297,10 @@
 
   {
     "id": 109,
-    "image": "",
+    "image": "Bâteau de transport3.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Bateau de transport de passagers",
+    "description": "Ou encore là-bas",
     "seller": "Iry",
     "city": "Gizeh",
     "isFavorite": false,
@@ -1309,10 +1309,10 @@
 
   {
     "id": 110,
-    "image": "",
+    "image": "Bâteau de transport2.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Bateau de transport de passagers",
+    "description": "Ou là-bas",
     "seller": "Hotepsekhemoui",
     "city": "Louxor",
     "isFavorite": false,
@@ -1321,10 +1321,10 @@
 
   {
     "id": 111,
-    "image": "",
+    "image": "Bâteau de transport.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Bateau de transport de passagers",
+    "description": "Pour aller là-bas",
     "seller": "Horus Ba",
     "city": "Le Caire",
     "isFavorite": false,
@@ -1333,10 +1333,10 @@
 
   {
     "id": 112,
-    "image": "",
+    "image": "Bâteau de pêche3.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Bateau de peche",
+    "description": "ouais mon gars",
     "seller": "Péribsen",
     "city": "Gizeh",
     "isFavorite": false,
@@ -1345,10 +1345,10 @@
 
   {
     "id": 113,
-    "image": "",
+    "image": "Bâteau de pêche.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Bateau de peche",
+    "description": "ca peche b1",
     "seller": "Khâsekhemoui",
     "city": "Alexandrie",
     "isFavorite": false,
@@ -1357,10 +1357,10 @@
 
   {
     "id": 114,
-    "image": "",
+    "image": "Bâteau de pêche2.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Bateau de peche",
+    "description": "bobato",
     "seller": "Houni",
     "city": "Louxor",
     "isFavorite": false,
@@ -1369,10 +1369,10 @@
 
   {
     "id": 115,
-    "image": "",
+    "image": "Palanquin3.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Palanquin",
+    "description": "Volé à un riche",
     "seller": "Snéfrou",
     "city": "Alexandrie",
     "isFavorite": false,
@@ -1381,9 +1381,9 @@
 
   {
     "id": 116,
-    "image": "",
+    "image": "Palanquin2.png",
     "category": "vehicle",
-    "title": "",
+    "title": "Pour etre porté comme un bg",
     "description": "",
     "seller": "Djédefrê",
     "city": "Gizeh",
@@ -1393,10 +1393,10 @@
 
   {
     "id": 117,
-    "image": "",
+    "image": "Palanquin.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Palanquin",
+    "description": "Je survole",
     "seller": "Baka",
     "city": "Louxor",
     "isFavorite": false,
@@ -1405,10 +1405,10 @@
 
   {
     "id": 118,
-    "image": "",
+    "image": "Luge en bois3.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Luge en bois",
+    "description": "ca va vite tah les fous",
     "seller": "Mykérinos",
     "city": "Alexandrie",
     "isFavorite": false,
@@ -1417,10 +1417,10 @@
 
   {
     "id": 119,
-    "image": "",
+    "image": "Luge en bois2.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Luge en bois",
+    "description": "waaaa ca glisse de zinzin",
     "seller": "Sahouré",
     "city": "Le Caire",
     "isFavorite": false,
@@ -1429,10 +1429,10 @@
 
   {
     "id": 120,
-    "image": "",
+    "image": "Luge en bois.png",
     "category": "vehicle",
-    "title": "",
-    "description": "",
+    "title": "Belle luge",
+    "description": "téma la luge de fou",
     "seller": "Nioussérré Ini",
     "city": "Louxor",
     "isFavorite": false,
@@ -1441,8 +1441,7 @@
 
   {
     "id": 121,
-    "image": "./images/Marteau en bronze.png",
-    "category": "tool",
+    "image": "Marteau en bronze.png",
     "title": "Marteau en bronze",
     "description": "Marteau en bronze pour vous accompagner dans vos projets de construction et d'artisanat.",
     "seller": "Ounas",
@@ -1453,7 +1452,7 @@
 
   {
     "id": 122,
-    "image": "",
+    "image": "Ciseaux en fer.png",
     "category": "tool",
     "title": "Ciseaux en fer",
     "description": "Ciseaux en fer solides et durables pour une découpe précise dans divers matériaux.",
@@ -1465,7 +1464,7 @@
 
   {
     "id": 123,
-    "image": "./images/Ciseaux en fer.png",
+    "image": "Scie en bois.png",
     "category": "tool",
     "title": "Scie en bois",
     "description": "Scie en bois traditionnelle pour couper avec précision et facilité.",
@@ -1477,7 +1476,7 @@
 
   {
     "id": 124,
-    "image": "./images/Hache en pierre.png",
+    "image": "Hache en pierre.png",
     "category": "tool",
     "title": "Hache en pierre",
     "description": "Hache en pierre taillée pour vos travaux de jardinage et de bûcheronnage.",
@@ -1489,7 +1488,7 @@
 
   {
     "id": 125,
-    "image": "./images/Burin en cuivre.png",
+    "image": "Burin en cuivre.png",
     "category": "tool",
     "title": "Burin en cuivre",
     "description": "Burin en cuivre pour la sculpture et la gravure sur diverses surfaces.",
@@ -1501,7 +1500,7 @@
 
   {
     "id": 126,
-    "image": "./images/Pioche en bois et en pierre.png",
+    "image": "Pioche en bois et en pierre.png",
     "category": "tool",
     "title": "Pioche en bois et en pierre",
     "description": "Pioche polyvalente en bois et en pierre pour les travaux de terrassement et de creusage.",
@@ -1513,7 +1512,7 @@
 
   {
     "id": 127,
-    "image": "./images/Couteau en silex.png",
+    "image": "Couteau en silex.png",
     "category": "tool",
     "title": "Couteau en silex",
     "description": "Couteau en silex tranchant, utilisé depuis des siècles pour diverses tâches quotidiennes.",
@@ -1525,7 +1524,7 @@
 
   {
     "id": 128,
-    "image": "./images/Herminette en bronze.png",
+    "image": "Herminette en bronze.png",
     "category": "tool",
     "title": "Herminette en bronze",
     "description": "Herminette en bronze pour la sculpture sur bois et la taille de précision.",
@@ -1537,7 +1536,7 @@
 
   {
     "id": 129,
-    "image": "./images/Pince en cuivre.png",
+    "image": "Pince en cuivre.png",
     "category": "tool",
     "title": "Pince en cuivre",
     "description": "Pince en cuivre pratique pour vos besoins de fixation et de manipulation.",
@@ -1549,7 +1548,7 @@
 
   {
     "id": 130,
-    "image": "./images/Rateau en bois.png",
+    "image": "Rateau en bois.png",
     "category": "tool",
     "title": "Râteau en bois",
     "description": "Râteau en bois pour aménager et entretenir votre jardin avec facilité.",
@@ -1561,7 +1560,7 @@
 
   {
     "id": 131,
-    "image": "./images/Aiguille en os.png",
+    "image": "Aiguille en os.png",
     "category": "tool",
     "title": "Aiguille en os",
     "description": "Aiguille en os fine et pointue, idéale pour la couture et la création de textiles.",
@@ -1573,7 +1572,7 @@
 
   {
     "id": 132,
-    "image": "./images/Maillet en bois.png",
+    "image": "Maillet en bois.png",
     "category": "tool",
     "title": "Maillet en bois",
     "description": "Maillet en bois pour les travaux de menuiserie et d'ébénisterie.",
@@ -1585,7 +1584,7 @@
 
   {
     "id": 133,
-    "image": "./images/Perceuse en cuivre.png",
+    "image": "Perceuse en cuivre.png",
     "category": "tool",
     "title": "Perceuse en cuivre",
     "description": "Perceuse en cuivre pour percer des trous précis dans divers matériaux.",
@@ -1597,7 +1596,7 @@
 
   {
     "id": 134,
-    "image": "./images/Ebauchoir en pierre.png",
+    "image": "Ebauchoir en pierre.png",
     "category": "tool",
     "title": "Ébauchoir en pierre",
     "description": "Ébauchoir en pierre pour la sculpture et le modelage de l'argile et de la pierre.",
@@ -1609,7 +1608,7 @@
 
   {
     "id": 135,
-    "image": "./images/Récipient en argile pour la fabrication de poterie.png",
+    "image": "Récipient en argile pour la fabrication de poterie.png",
     "category": "tool",
     "title": "Récipient en argile pour la fabrication de poterie",
     "description": " Récipient en argile utilisé pour la préparation et la création de poteries artisanales.",
@@ -1621,7 +1620,7 @@
 
   {
     "id": 136,
-    "image": "./images/Serpe en bronze.png",
+    "image": "Serpe en bronze.png",
     "category": "tool",
     "title": "Serpe en bronze",
     "description": "Serpe en bronze tranchante pour la taille des plantes et des arbres.",
@@ -1633,7 +1632,7 @@
 
   {
     "id": 139,
-    "image": "./images/Pointe de flèche en silex.png",
+    "image": "Pointe de flèche en silex.png",
     "category": "tool",
     "title": "Pointe de flèche en silex",
     "description": "Pointe de flèche en silex pour les activités de chasse et de défense.",
@@ -1645,7 +1644,7 @@
 
   {
     "id": 140,
-    "image": "./images/Racloir en os.png",
+    "image": "Racloir en os.png",
     "category": "tool",
     "title": "Racloir en os",
     "description": " Racloir en os pour le travail des peaux et la préparation des matériaux.",
@@ -1657,7 +1656,7 @@
 
   {
     "id": 141,
-    "image": "./images/Mortier et pillon.png",
+    "image": "Mortier et pillon.png",
     "category": "tool",
     "title": "Pilon en pierre",
     "description": "Pilon en pierre pour écraser et moudre des ingrédients dans la cuisine ou dans des rituels spéciaux.",
@@ -1669,7 +1668,7 @@
 
   {
     "id": 142,
-    "image": "./images/Brosse en fibres végétales pour la sculpture.png",
+    "image": "Brosse en fibres végétales pour la sculpture.png",
     "category": "tool",
     "title": "Brosse en fibres végétales pour la sculpture",
     "description": "Brosse en fibres végétales pour la sculpture, le nettoyage et les finitions fines.",
