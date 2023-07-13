@@ -241,7 +241,7 @@
 
   {
     "id": 21,
-    "image": "",
+    "image": "Palais.png",
     "category": "real-estate",
     "title": "Palais",
     "description": "Pharaon ponpon",
@@ -649,7 +649,7 @@
 
   {
     "id": 55,
-    "image": "",
+    "image": "Chèvre.jpg",
     "category": "animal",
     "title": "Chèvre",
     "description": "Apportez une touche de charme rustique à votre décoration avec cette sculpture de chèvre en céramique émaillée. Inspirée des animaux qui occupaient les terres fertiles de l'Égypte ancienne, cette pièce artistique évoque l'esprit de la nature et de la vie rurale. Placez-la sur une étagère, une table basse ou une cheminée pour ajouter une note champêtre à votre intérieur.",
@@ -784,7 +784,7 @@
     "image": "Objet décoratif en faïence émaillée.png",
     "category": "trinket",
     "title": "Objet décoratif en faïence émaillée",
-    "description": "",
+    "description": "Belle-mère value",
     "seller": "Ramses VIII",
     "city": "Gizeh",
     "isFavorite": false,
@@ -793,10 +793,10 @@
 
   {
     "id": 67,
-    "image": "",
+    "image": "Objet de toilette miniature en bronze2.png",
     "category": "trinket",
-    "title": "Souvenir en verre coloré représentant une divinité égyptienne",
-    "description": "",
+    "title": "Objet de toilette miniature",
+    "description": "ça brille, même aux toilettes",
     "seller": "Ramses IV",
     "city": "Le Caire",
     "isFavorite": false,
@@ -808,7 +808,7 @@
     "image": "Petit objet en bronze avec des hiéroglyphes.png",
     "category": "trinket",
     "title": "Petit objet en bronze avec des hiéroglyphes",
-    "description": "",
+    "description": "Tout beau tout propre",
     "seller": "Ramses X",
     "city": "Gizeh",
     "isFavorite": false,
@@ -819,8 +819,8 @@
     "id": 69,
     "image": "Petit coffret en bois avec des incrustations de pierres précieuses2.png",
     "category": "trinket",
-    "title": "Miniature de pyramide en bois",
-    "description": "gros triangle",
+    "title": "Petit coffret en bois",
+    "description": "gros cube",
     "seller": "Ramses XI",
     "city": "Louxor",
     "isFavorite": false,
@@ -841,9 +841,9 @@
 
   {
     "id": 71,
-    "image": "Petit coffret en bois avec des incrustations de pierres précieuses.png",
+    "image": "Objet décoratif en faïence émaillée 2.png",
     "category": "trinket",
-    "title": "Objet de jeu de société en bois",
+    "title": "Objet décoratif en faïence",
     "description": "ca triche ici",
     "seller": "Sélim",
     "city": "Alexandrie",
@@ -853,9 +853,9 @@
 
   {
     "id": 72,
-    "image": "Babouin.jpg",
+    "image": "Objet de culte miniature2.png",
     "category": "trinket",
-    "title": "Statuette de babouin en bronze",
+    "title": "Pour la prière du samedi soir",
     "description": "singedefou",
     "seller": "Zahra",
     "city": "Louxor",
@@ -867,7 +867,7 @@
     "id": 73,
     "image": "Vase en albâtre sculpté.png",
     "category": "trinket",
-    "title": "Souvenir en albâtre sculpté",
+    "title": "Vase en albâtre sculpté.png",
     "description": "A l'ancienne t'as vu",
     "seller": "Mourad",
     "city": "Le Caire",
@@ -880,7 +880,7 @@
     "image": "Petit coffret en bois avec des incrustations de pierres précieuses.png",
     "category": "trinket",
     "title": "Petit coffret en bois avec des incrustations de pierres précieuses",
-    "description": "",
+    "description": "Pour tout ce qui est précieux",
     "seller": "coupdeShlassdu38",
     "city": "Alexandrie",
     "isFavorite": false,
@@ -901,9 +901,9 @@
 
   {
     "id": 76,
-    "image": "Objet décoratif en faïence émaillée.png",
+    "image": "Figurine de chat en céramique2.png",
     "category": "trinket",
-    "title": "Petite figurine de danseuse en bronze",
+    "title": "Figurine de chat en céramique",
     "description": "cbo",
     "seller": "Farah",
     "city": "Gizeh",
@@ -928,7 +928,7 @@
     "image": "Objet de toilette miniature en bronze.png",
     "category": "trinket",
     "title": "Objet de toilette miniature en bronze",
-    "description": "",
+    "description": "Pause caca",
     "seller": "Dalida",
     "city": "Le Caire",
     "isFavorite": false,
@@ -949,10 +949,10 @@
 
   {
     "id": 80,
-    "image": "trinket",
-    "category": "Bougeoir en argile modelée2.png",
-    "title": "Souvenir en ivoire représentant une déesse égyptienne",
-    "description": "",
+    "image": "Bougeoir en argile modelée2.png",
+    "category": "trinket",
+    "title": "Bougeoir en argile modelée",
+    "description": "Attention ça brûle",
     "seller": "Ayman",
     "city": "Alexandrie",
     "isFavorite": false,
@@ -1213,7 +1213,7 @@
 
   {
     "id": 102,
-    "image": "oBâteau de transport.png",
+    "image": "Bâteau de transport.png",
     "category": "vehicle",
     "title": "Bateau de transport de passagers",
     "description": "Stu veux aller d'un point A à un point B, c'est pour toa quoi",
@@ -1261,7 +1261,7 @@
 
   {
     "id": 106,
-    "image": "Charriot Royal.png",
+    "image": "Charriot Royal2.png",
     "category": "vehicle",
     "title": "Charriot Royal",
     "description": "Bogosse",
